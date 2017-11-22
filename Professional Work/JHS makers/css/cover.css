@@ -1,0 +1,62 @@
+.homepage-hero-module {
+    border-right: none;
+    border-left: none;
+    position: absolute;
+    z-index:-1;
+    top:0;
+    right:0;
+    opacity:1;
+    left:0;
+    transition:.5s;
+    -moz-transition:.5s;
+    -o-transition:.5s;
+    -webkit-transition:.5s;
+    min-width:950px;
+}
+.no-video .video-container video,
+.touch .video-container video {
+    display: none;
+    min-width:950px;
+    opacity:1;
+    transition:.5s;
+    -moz-transition:.5s;
+    -o-transition:.5s;
+    -webkit-transition:.5s;
+}
+.no-video .video-container .poster,
+.touch .video-container .poster {
+    display: block !important;
+    min-width:950px;
+}
+.video-container {
+    min-width:950px;
+    position: relative;
+    bottom: 0%;
+    left: 0%;
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+    transition:.5s;
+    -moz-transition:.5s;
+    -o-transition:.5s;
+    -webkit-transition:.5s;
+}
+.video-container .poster img {
+    width: 100%;
+    bottom: 0;
+    position: absolute;
+}
+.video-container video {
+    position: absolute;
+    z-index: 0;
+    bottom: 0;
+    opacity:1;
+    transition:.5s;
+    -moz-transition:.5s;
+    -o-transition:.5s;
+    -webkit-transition:.5s;
+}
+.video-container video.fillWidth {
+    width: 100%;
+    min-width:950px;
+}

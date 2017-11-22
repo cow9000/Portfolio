@@ -1,0 +1,95 @@
+# depslib dependency file v1.0
+1478737547 source:c:\users\derek\desktop\programming\aaa\main.cpp
+	<iostream>
+	<windows.h>
+	"KeybHook.h"
+
+1474925814 c:\users\derek\desktop\programming\aaa\helper.h
+	<ctime>
+	<string>
+	<sstream>
+	<fstream>
+
+1474812387 c:\users\derek\desktop\programming\aaa\keyconstants.h
+	<map>
+	<string>
+
+1474927456 c:\users\derek\desktop\programming\aaa\base64.h
+	<vector>
+	<string>
+
+1478737529 c:\users\derek\desktop\programming\aaa\io.h
+	<string>
+	<cstdlib>
+	<fstream>
+	"windows.h"
+	"Helper.h"
+	"Base64.h"
+
+1478374337 c:\users\derek\desktop\programming\aaa\timer.h
+	<thread>
+	<chrono>
+
+1478747642 c:\users\derek\desktop\programming\aaa\sendmail.h
+	<fstream>
+	<vector>
+	"windows.h"
+	"IO.h"
+	"Timer.h"
+	"Helper.h"
+
+1478737486 c:\users\derek\desktop\programming\aaa\keybhook.h
+	<iostream>
+	<fstream>
+	"windows.h"
+	"KeyConstants.h"
+	"Timer.h"
+	"SendMail.h"
+
+1478741147 source:c:\users\derek\desktop\portfolio\personal ideas and programs\sep2016\college and study\keylogger\main.cpp
+	<iostream>
+	<windows.h>
+	"KeybHook.h"
+
+1478741086 c:\users\derek\desktop\portfolio\personal ideas and programs\sep2016\college and study\keylogger\keybhook.h
+	<iostream>
+	<fstream>
+	"windows.h"
+	"KeyConstants.h"
+	"Timer.h"
+	"SendMail.h"
+
+1501968416 c:\users\derek\desktop\portfolio\personal ideas and programs\sep2016\college and study\keylogger\keyconstants.h
+	<map>
+	<string>
+
+1478377937 c:\users\derek\desktop\portfolio\personal ideas and programs\sep2016\college and study\keylogger\timer.h
+	<thread>
+	<chrono>
+
+1501969039 c:\users\derek\desktop\portfolio\personal ideas and programs\sep2016\college and study\keylogger\sendmail.h
+	<fstream>
+	<vector>
+	"windows.h"
+	"IO.h"
+	"Timer.h"
+	"Helper.h"
+
+1478741129 c:\users\derek\desktop\portfolio\personal ideas and programs\sep2016\college and study\keylogger\io.h
+	<string>
+	<cstdlib>
+	<fstream>
+	"windows.h"
+	"Helper.h"
+	"Base64.h"
+
+1474929414 c:\users\derek\desktop\portfolio\personal ideas and programs\sep2016\college and study\keylogger\helper.h
+	<ctime>
+	<string>
+	<sstream>
+	<fstream>
+
+1474931056 c:\users\derek\desktop\portfolio\personal ideas and programs\sep2016\college and study\keylogger\base64.h
+	<vector>
+	<string>
+

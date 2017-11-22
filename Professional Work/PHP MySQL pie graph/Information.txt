@@ -1,0 +1,9 @@
+TIME SPENT - 1 hour
+
+CONTACT - Kamrail (https://www.freelancer.com/u/kamrail.html)
+
+DESCRIPTION - 
+I programmed a Google Pie Chart and hooked it upto a
+database that looked at how many people where from x country and 
+then the pie chart would display the information
+

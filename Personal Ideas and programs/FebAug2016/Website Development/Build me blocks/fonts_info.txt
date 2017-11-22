@@ -1,0 +1,4 @@
+List of Fonts used in template 
+
+Lobster		http://code.google.com/webfonts
+Oswald		http://www.google.com/webfonts/family?family=Oswald&subset=latin

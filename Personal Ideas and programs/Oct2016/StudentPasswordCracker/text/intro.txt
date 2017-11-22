@@ -1,0 +1,14 @@
+                      __   ____   ___________      _______  ____ 
+   ________________  |  | _\   \ /   /\   _  \     \   _  \/_   |
+ _/ ___\_  __ \__  \ |  |/ /\   Y   / /  /_\  \    /  /_\  \|   |
+ \  \___|  | \// __ \|    <  \     /  \  \_/   \   \  \_/   \   |
+  \___  >__|  (____  /__|_ \  \___/    \_____  / /\ \_____  /___|
+      \/           \/     \/                 \/  \/       \/     
+ 
+# Welcome to the crak, this was designed and developed by Derek Vawdrey
+# This was designed to be a password cracker for the new Canyons
+# School District password system.
+
+
+# All dictionarys should be stored in the text folder.
+# Please enter the dictionary path. (Example: 4letterpasswords.txt)

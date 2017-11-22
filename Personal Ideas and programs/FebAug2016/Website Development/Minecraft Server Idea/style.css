@@ -1,0 +1,324 @@
+html, body{
+    min-height: 100%;
+    font-family:"Myriad Pro", sans-serif;
+}
+#wrapper {
+    margin: 0 auto;
+    width: 100%;
+    min-height: 100%;
+    min-width:1060px;
+    position:absolute;
+    background-color:#F2F0EB;
+}
+
+
+
+*{
+	padding:0;
+	margin:0 auto;
+}
+
+#slideshow{
+	height:368px;
+	width:100%;
+	position:relative;
+	background-color:gray;
+	
+	margin-bottom:50px;
+	border-bottom:1px solid gray;
+	display:inline-block;
+}
+
+#slideshow #image{
+	height:368px;
+	width:100%;
+	background-size:100% 100%;
+	z-index:0;
+	transition:0.5s;
+	-o-transition:0.5s;
+	-moz-transition:0.5s;
+	-webkit-transition:0.5s;
+}
+#slideshow .cover{
+	background-color:rgba(0,0,0,.5);
+	background-image:url("images/shattered.png");
+	position:absolute;
+	z-index:0;
+	top:0;
+	width:100%;
+	height:100%;
+}
+
+#slideshow .desc{
+display:inline-block;
+top:50px;
+left:100px;
+width:500px;
+position:absolute;
+}
+
+#slideshow .desc #title{
+	color:#D9D9E3;
+	font-size:24px;
+	opacity:1;
+}
+#slideshow .desc #text{
+	opacity:1;
+	font-size:20px;
+	display:inline-block;
+}
+#slideshow .timer{
+	width:100%;
+	height:16px;
+	background-color:#EBE4E7;
+	border-bottom:3px solid #EBE9E4;
+	display:inline-block;
+	position:relative;
+	bottom:0;
+}
+#slideshow .timer #timer{
+	display:inline-block;
+	height:16px;
+	background-color:rgba(0,0,0,.3);
+	background-image:url("images/shattered.png");
+}
+
+.containerText{
+
+font-size:32px;
+color:black;
+
+}
+
+#container .title{
+	display:block;
+	height:32px;
+	background-color:#EBE9E4;
+	padding:5px;
+	color:black;
+	font-size:32px;
+}
+
+
+
+
+.news{
+	width:90%;
+	float:left;
+	height:auto;
+	margin-left:32px;
+	display:inline-block;
+}
+.chat{
+	width:90%;
+	float:left;
+	height:auto;
+	margin-left:32px;
+	display:inline-block;
+}
+.login{
+	width:90%;
+	float:left;
+	height:auto;
+	margin-left:32px;
+	display:inline-block;
+}
+
+.news #container{
+	display:inline-block;
+	height:328px;
+	border:2px solid #B0AEAB;
+	border-radius:5px;
+	margin:15px;
+}
+
+.chat #container{
+	display:inline-block;
+	height:328px;
+	border:2px solid #B0AEAB;
+	border-radius:5px;
+	margin:15px;
+	overflow:scroll;
+	
+}
+
+.login #container{
+	display:inline-block;
+	height:328px;
+	border:2px solid #B0AEAB;
+	border-radius:5px;
+}
+
+#container.size1{
+	
+	display:inline-block;
+	width:22%;
+}
+#container.size2{
+
+	display:inline-block;
+	width:47%;
+}
+#container.size3{
+
+	display:inline-block;
+	width:72%;
+}
+#container.size4{
+
+	display:inline-block;
+	width:100%;
+}
+
+
+#header{
+	position:relative;
+	width:100%;
+	height:92px;
+	border-bottom:2px solid #D9D9E3;
+}
+
+
+#header .loginBar{
+	position:relative;
+	width:100%;
+	height:28px;
+	background-color:#EBE9E4;
+	border-bottom:1px solid #D9D9E3;
+	text-indent:15px;
+	line-height: 28px;
+}
+
+#header .loginBar p {
+	line-height:28px;
+}
+
+#header .linkBar{
+	position:relative;
+	width:100%;
+	height:64px;
+	background-color:#F2F0EB;
+	
+}
+#header .linkBar li{
+	list-style:none;
+	display:inline-block;
+}
+#header .linkBar li a{
+	color:black;
+	text-decoration:none;
+	display:inline-block;
+	width:150px;
+	height:64px;
+	transition:.5s;
+	-o-transition:.5s;
+	-moz-transition:.5s;
+	-webkit-transition:.5s;
+	font-size:20px;
+	line-height:64px;
+	text-align:center;
+}
+#header .linkBar li a:hover{
+
+	background-color:#D9D9E3;
+}
+
+.chat p{
+	display:inline;
+}
+.green{
+	color:green;
+	display:inline;
+}
+
+.A0{
+	color:#000000;
+}
+.A1{
+	color:#0000AA;
+}
+.A2{
+	color:#00AA00;
+}
+.A3{
+	color:#00AAAA;
+}
+.A4{
+	color:#AA0000;
+}
+.A5{
+	color:#AA00AA;
+}
+.A6{
+	color:#FFAA00;
+}
+.A7{
+	color:#AAAAAA;
+}
+.A8{
+	color:#555555;
+}
+.A9{
+	color:#5555FF;
+}
+.Aa{
+	color:#55FF55;
+}
+.Ab{
+	color:#55FFFF;
+}
+.Ac{
+	color:#FF5555;
+}
+.Ad{
+	color:#FF55FF;
+}
+.Ae{
+	color:#FFFF55;
+}
+.Af{
+	color:#FFFFFF;
+}
+.Ak{
+	color:#FFAA00;
+}
+.Al{
+	color:#FFAA00;
+}
+.Am{
+	color:#FFAA00;
+}
+.An{
+	color:#FFAA00;
+}
+.Ao{
+	color:#FFAA00;
+}
+.Ar{
+	color:#FFAA00;
+}
+.online{
+	color:green;
+	display:inline;
+}
+.offline{
+	color:red;
+	display:inline;
+}
+
+#main{
+	position:relative;
+	width:100%;
+	height:100%;
+	background-color:#F2F0EB;
+}
+
+#footer{
+	position:relative;
+	width:100%;
+	height:48px;
+	border-top:1px solid #D9D9E3;
+	background-color:#EBE9E4;
+    clear: both;
+	bottom:-32px;
+}

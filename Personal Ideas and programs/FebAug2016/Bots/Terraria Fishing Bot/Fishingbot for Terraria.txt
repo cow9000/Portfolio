@@ -1,0 +1,11 @@
+TIME SPENT - 3 Hours
+
+CONTACT - Derek Vawdrey flyingpiechicken@gmail.com
+
+DESCRIPTION - I was playing one of my games by my self and I was fishing. And inevitably
+I got bored after the first 30 minutes because its just clicking the left mouse button and the right times. So I decided
+I would make a bot to do it for me, I created a program what would look at the pixels on the screen and determine when
+a fish was hooked onto the line. Then it would simply simulate a mouse and left click on the screen bringing the fish in.
+Afterwards it would repeat the process.
+
+FILES - They are in visual studio on my personal computer

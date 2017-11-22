@@ -1,0 +1,1876 @@
+[09.11.2016 20:14:13]
+Hook started... Timer started
+
+[09.11.2016 20:15:46]
+<From SendMail> Return code: 7
+
+[09.11.2016 20:18:28]
+Hook started... Timer started
+
+[09.11.2016 20:19::1]
+<From SendMail> Return code: 7
+
+[09.11.2016 20:21:35]
+Hook started... Timer started
+
+[09.11.2016 20:22::8]
+<From SendMail> Return code: 7
+
+[09.11.2016 20:22:55]
+Hook started... Timer started
+
+[09.11.2016 20:26:36]
+Hook started... Timer started
+
+[09.11.2016 20:28::9]
+<From SendMail> Return code: 7
+
+[10.11.2016 18:32:54]
+Hook started... Timer started
+
+[11.11.2016 07:05:19]
+<From SendMail> Return code: 7
+
+[11.11.2016 17:27::4]
+Mail was not sent! Error code: 259
+
+[12.11.2016 07:44:48]
+Mail was not sent! Error code: 259
+
+[12.11.2016 12:21:54]
+Mail was not sent! Error code: 259
+
+[12.11.2016 12:23:10]
+Mail was not sent! Error code: 3
+
+[12.11.2016 12:32::0]
+Mail was not sent! Error code: 259
+
+[12.11.2016 12:59:26]
+Mail was not sent! Error code: 259
+
+[12.11.2016 14:40:52]
+Mail was not sent! Error code: 259
+
+[12.11.2016 15:36::9]
+Mail was not sent! Error code: 259
+
+[12.11.2016 19:39::7]
+Mail was not sent! Error code: 259
+
+[13.11.2016 01:39:20]
+Mail was not sent! Error code: 259
+
+[13.11.2016 01:39:57]
+Mail was not sent! Error code: 259
+
+[13.11.2016 01:40:34]
+Mail was not sent! Error code: 259
+
+[13.11.2016 01:41:11]
+Mail was not sent! Error code: 259
+
+[13.11.2016 08:03:19]
+Mail was not sent! Error code: 259
+
+[13.11.2016 08:03:50]
+Mail was not sent! Error code: 3
+
+[13.11.2016 08:04:21]
+Mail was not sent! Error code: 3
+
+[13.11.2016 08:04:52]
+Mail was not sent! Error code: 3
+
+[15.11.2016 06:52:12]
+Mail was not sent! Error code: 259
+
+[16.11.2016 02:45:18]
+Mail was not sent! Error code: 259
+
+[16.11.2016 02:45:55]
+Mail was not sent! Error code: 259
+
+[16.11.2016 02:46:32]
+Mail was not sent! Error code: 259
+
+[16.11.2016 02:47::9]
+Mail was not sent! Error code: 259
+
+[16.11.2016 06:59:39]
+Mail was not sent! Error code: 259
+
+[16.11.2016 15:10:36]
+Mail was not sent! Error code: 259
+
+[01.12.2016 10:19:50]
+Hook started... Timer started
+
+[01.12.2016 10:20:59]
+Mail was not sent! Error code: 259
+
+[01.12.2016 10:20:59]
+<From SendMail> Return code: 2046
+
+[01.12.2016 10:29:40]
+Mail was not sent! Error code: 3
+
+[01.12.2016 10:30:10]
+Mail was not sent! Error code: 3
+
+[01.12.2016 10:30:41]
+Mail was not sent! Error code: 3
+
+[01.12.2016 10:31:12]
+Mail was not sent! Error code: 3
+
+[01.12.2016 10:31:42]
+Mail was not sent! Error code: 3
+
+[01.12.2016 10:32:13]
+Mail was not sent! Error code: 3
+
+[01.12.2016 10:32:44]
+Mail was not sent! Error code: 3
+
+[01.12.2016 10:33:14]
+Mail was not sent! Error code: 3
+
+[01.12.2016 10:33:45]
+Mail was not sent! Error code: 3
+
+[01.12.2016 10:34:16]
+Mail was not sent! Error code: 3
+
+[01.12.2016 10:34:47]
+Mail was not sent! Error code: 3
+
+[01.12.2016 10:35:17]
+Mail was not sent! Error code: 3
+
+[01.12.2016 10:35:48]
+Mail was not sent! Error code: 3
+
+[01.12.2016 10:36:18]
+Mail was not sent! Error code: 3
+
+[01.12.2016 10:36:49]
+Mail was not sent! Error code: 3
+
+[01.12.2016 10:37:20]
+Mail was not sent! Error code: 3
+
+[01.12.2016 10:37:50]
+Mail was not sent! Error code: 3
+
+[01.12.2016 15:34:38]
+Mail was not sent! Error code: 3
+
+[01.12.2016 15:35::9]
+Mail was not sent! Error code: 3
+
+[01.12.2016 15:35:40]
+Mail was not sent! Error code: 3
+
+[01.12.2016 15:36:10]
+Mail was not sent! Error code: 3
+
+[01.12.2016 15:36:41]
+Mail was not sent! Error code: 3
+
+[01.12.2016 15:37:11]
+Mail was not sent! Error code: 3
+
+[01.12.2016 15:37:42]
+Mail was not sent! Error code: 3
+
+[01.12.2016 15:38:13]
+Mail was not sent! Error code: 3
+
+[01.12.2016 15:38:43]
+Mail was not sent! Error code: 3
+
+[01.12.2016 15:39:14]
+Mail was not sent! Error code: 3
+
+[01.12.2016 16:30:55]
+Mail was not sent! Error code: 3
+
+[01.12.2016 16:31:26]
+Mail was not sent! Error code: 3
+
+[01.12.2016 16:31:56]
+Mail was not sent! Error code: 3
+
+[01.12.2016 16:32:27]
+Mail was not sent! Error code: 3
+
+[01.12.2016 17:37:15]
+Mail was not sent! Error code: 259
+
+[03.12.2016 16:12:18]
+Mail was not sent! Error code: 3
+
+[03.12.2016 16:12:48]
+Mail was not sent! Error code: 3
+
+[03.12.2016 16:13:19]
+Mail was not sent! Error code: 3
+
+[03.12.2016 16:13:49]
+Mail was not sent! Error code: 3
+
+[03.12.2016 17:46::1]
+Mail was not sent! Error code: 259
+
+[03.12.2016 18:01:14]
+Mail was not sent! Error code: 259
+
+[03.12.2016 20:17:58]
+Mail was not sent! Error code: 259
+
+[03.12.2016 20:23:38]
+Mail was not sent! Error code: 259
+
+[03.12.2016 20:26:22]
+Mail was not sent! Error code: 259
+
+[03.12.2016 20:26:59]
+Mail was not sent! Error code: 259
+
+[18.01.2017 17:12::2]
+Hook started... Timer started
+
+
+[18.01.2017 17:12:40]
+Mail was not sent! Error code: 259
+
+[18.01.2017 17:12:41]
+<From SendMail> Return code: 2046
+
+[18.01.2017 17:13:17]
+Mail was not sent! Error code: 259
+
+[18.01.2017 17:13:54]
+Mail was not sent! Error code: 259
+
+[18.01.2017 18:10:37]
+Hook started... Timer started
+
+[18.01.2017 18:11:45]
+Mail was not sent! Error code: 259
+
+[18.01.2017 18:11:45]
+<From SendMail> Return code: 2046
+
+[19.01.2017 16:42:36]
+Mail was not sent! Error code: 259
+
+[19.01.2017 16:43:13]
+Mail was not sent! Error code: 259
+
+[19.01.2017 16:48:11]
+Mail was not sent! Error code: 259
+
+[19.01.2017 16:48:48]
+Mail was not sent! Error code: 259
+
+[19.01.2017 16:49:21]
+Mail was not sent! Error code: 3
+
+[19.01.2017 17:51:47]
+Mail was not sent! Error code: 259
+
+[19.01.2017 17:59:51]
+Mail was not sent! Error code: 259
+
+[19.01.2017 18:02:37]
+Mail was not sent! Error code: 3
+
+[19.01.2017 18:03:10]
+Mail was not sent! Error code: 3
+
+[24.03.2017 18:20:47]
+Hook started... Timer started
+
+[24.03.2017 18:24:59]
+Mail was not sent! Error code: 259
+
+[24.03.2017 18:24:59]
+<From SendMail> Return code: 2046
+
+[24.03.2017 18:25:36]
+Mail was not sent! Error code: 259
+
+[24.03.2017 18:26:13]
+Mail was not sent! Error code: 259
+
+[24.03.2017 18:26:50]
+Mail was not sent! Error code: 259
+
+[24.03.2017 18:35:24]
+Mail was not sent! Error code: 3
+
+[24.03.2017 18:35:55]
+Mail was not sent! Error code: 3
+
+[24.03.2017 18:45:21]
+Mail was not sent! Error code: 3
+
+[29.07.2017 15:54:56]
+Hook started... Timer started
+
+[29.07.2017 15:55:34]
+Mail was not sent! Error code: 259
+
+[29.07.2017 15:55:34]
+<From SendMail> Return code: 2046
+
+[29.07.2017 15:56:11]
+Mail was not sent! Error code: 259
+
+[29.07.2017 20:25:17]
+Mail was not sent! Error code: 259
+
+[30.07.2017 14:34:19]
+Hook started... Timer started
+
+[30.07.2017 14:39:27]
+Mail was not sent! Error code: 259
+
+[30.07.2017 14:39:27]
+<From SendMail> Return code: 2046
+
+[30.07.2017 14:40::4]
+Mail was not sent! Error code: 259
+
+[03.08.2017 13:39:38]
+Mail was not sent! Error code: 3
+
+[03.08.2017 13:40::9]
+Mail was not sent! Error code: 3
+
+[03.08.2017 13:40:39]
+Mail was not sent! Error code: 3
+
+[03.08.2017 13:41:10]
+Mail was not sent! Error code: 3
+
+[03.08.2017 13:41:41]
+Mail was not sent! Error code: 3
+
+[03.08.2017 13:42:11]
+Mail was not sent! Error code: 3
+
+[03.08.2017 13:42:42]
+Mail was not sent! Error code: 3
+
+[03.08.2017 13:43:13]
+Mail was not sent! Error code: 3
+
+[03.08.2017 13:43:43]
+Mail was not sent! Error code: 3
+
+[03.08.2017 13:44:14]
+Mail was not sent! Error code: 3
+
+[03.08.2017 13:44:45]
+Mail was not sent! Error code: 3
+
+[03.08.2017 13:45:15]
+Mail was not sent! Error code: 3
+
+[03.08.2017 13:45:46]
+Mail was not sent! Error code: 3
+
+[03.08.2017 13:46:16]
+Mail was not sent! Error code: 3
+
+[03.08.2017 13:46:47]
+Mail was not sent! Error code: 3
+
+[03.08.2017 13:47:18]
+Mail was not sent! Error code: 3
+
+[03.08.2017 13:47:48]
+Mail was not sent! Error code: 3
+
+[03.08.2017 13:48:19]
+Mail was not sent! Error code: 3
+
+[03.08.2017 13:48:50]
+Mail was not sent! Error code: 3
+
+[03.08.2017 13:49:20]
+Mail was not sent! Error code: 3
+
+[03.08.2017 13:49:51]
+Mail was not sent! Error code: 3
+
+[03.08.2017 13:50:21]
+Mail was not sent! Error code: 3
+
+[03.08.2017 13:50:52]
+Mail was not sent! Error code: 3
+
+[03.08.2017 13:51:22]
+Mail was not sent! Error code: 3
+
+[03.08.2017 13:51:53]
+Mail was not sent! Error code: 3
+
+[03.08.2017 13:52:24]
+Mail was not sent! Error code: 3
+
+[03.08.2017 13:52:54]
+Mail was not sent! Error code: 3
+
+[03.08.2017 13:53:25]
+Mail was not sent! Error code: 3
+
+[03.08.2017 13:53:55]
+Mail was not sent! Error code: 3
+
+[03.08.2017 13:54:26]
+Mail was not sent! Error code: 3
+
+[03.08.2017 13:54:57]
+Mail was not sent! Error code: 3
+
+[03.08.2017 13:55:27]
+Mail was not sent! Error code: 3
+
+[03.08.2017 13:55:58]
+Mail was not sent! Error code: 3
+
+[03.08.2017 13:56:29]
+Mail was not sent! Error code: 3
+
+[03.08.2017 13:56:59]
+Mail was not sent! Error code: 3
+
+[03.08.2017 13:57:30]
+Mail was not sent! Error code: 3
+
+[03.08.2017 13:58::0]
+Mail was not sent! Error code: 3
+
+[03.08.2017 13:58:31]
+Mail was not sent! Error code: 3
+
+[03.08.2017 13:59::1]
+Mail was not sent! Error code: 3
+
+[03.08.2017 13:59:32]
+Mail was not sent! Error code: 3
+
+[03.08.2017 14:00::3]
+Mail was not sent! Error code: 3
+
+[03.08.2017 14:00:33]
+Mail was not sent! Error code: 3
+
+[03.08.2017 14:01::4]
+Mail was not sent! Error code: 3
+
+[03.08.2017 14:01:34]
+Mail was not sent! Error code: 3
+
+[03.08.2017 14:02::5]
+Mail was not sent! Error code: 3
+
+[03.08.2017 14:02:36]
+Mail was not sent! Error code: 3
+
+[03.08.2017 14:03::6]
+Mail was not sent! Error code: 3
+
+[03.08.2017 14:03:37]
+Mail was not sent! Error code: 3
+
+[03.08.2017 14:04::7]
+Mail was not sent! Error code: 3
+
+[03.08.2017 14:04:38]
+Mail was not sent! Error code: 3
+
+[03.08.2017 14:05::9]
+Mail was not sent! Error code: 3
+
+[03.08.2017 14:05:39]
+Mail was not sent! Error code: 3
+
+[03.08.2017 14:06:10]
+Mail was not sent! Error code: 3
+
+[03.08.2017 14:06:41]
+Mail was not sent! Error code: 3
+
+[03.08.2017 14:07:11]
+Mail was not sent! Error code: 3
+
+[03.08.2017 14:07:42]
+Mail was not sent! Error code: 3
+
+[03.08.2017 14:08:13]
+Mail was not sent! Error code: 3
+
+[03.08.2017 14:08:43]
+Mail was not sent! Error code: 3
+
+[03.08.2017 14:09:14]
+Mail was not sent! Error code: 3
+
+[03.08.2017 14:09:44]
+Mail was not sent! Error code: 3
+
+[03.08.2017 14:10:15]
+Mail was not sent! Error code: 3
+
+[03.08.2017 14:10:46]
+Mail was not sent! Error code: 3
+
+[03.08.2017 14:11:16]
+Mail was not sent! Error code: 3
+
+[03.08.2017 14:11:47]
+Mail was not sent! Error code: 3
+
+[03.08.2017 14:12:18]
+Mail was not sent! Error code: 3
+
+[03.08.2017 14:12:49]
+Mail was not sent! Error code: 3
+
+[03.08.2017 14:13:19]
+Mail was not sent! Error code: 3
+
+[03.08.2017 14:13:50]
+Mail was not sent! Error code: 3
+
+[03.08.2017 14:14:21]
+Mail was not sent! Error code: 3
+
+[03.08.2017 14:14:51]
+Mail was not sent! Error code: 3
+
+[03.08.2017 14:15:22]
+Mail was not sent! Error code: 3
+
+[03.08.2017 14:15:52]
+Mail was not sent! Error code: 3
+
+[03.08.2017 14:16:23]
+Mail was not sent! Error code: 3
+
+[03.08.2017 14:16:54]
+Mail was not sent! Error code: 3
+
+[03.08.2017 14:17:24]
+Mail was not sent! Error code: 3
+
+[03.08.2017 14:17:55]
+Mail was not sent! Error code: 3
+
+[03.08.2017 14:18:26]
+Mail was not sent! Error code: 3
+
+[03.08.2017 14:18:56]
+Mail was not sent! Error code: 3
+
+[03.08.2017 14:19:27]
+Mail was not sent! Error code: 3
+
+[03.08.2017 14:19:58]
+Mail was not sent! Error code: 3
+
+[03.08.2017 14:20:28]
+Mail was not sent! Error code: 3
+
+[03.08.2017 14:20:59]
+Mail was not sent! Error code: 3
+
+[03.08.2017 14:21:29]
+Mail was not sent! Error code: 3
+
+[03.08.2017 14:22::0]
+Mail was not sent! Error code: 3
+
+[03.08.2017 14:22:31]
+Mail was not sent! Error code: 3
+
+[03.08.2017 14:23::1]
+Mail was not sent! Error code: 3
+
+[03.08.2017 14:23:32]
+Mail was not sent! Error code: 3
+
+[03.08.2017 14:24::3]
+Mail was not sent! Error code: 3
+
+[03.08.2017 14:24:33]
+Mail was not sent! Error code: 3
+
+[03.08.2017 14:25::4]
+Mail was not sent! Error code: 3
+
+[03.08.2017 14:25:34]
+Mail was not sent! Error code: 3
+
+[03.08.2017 14:26::5]
+Mail was not sent! Error code: 3
+
+[03.08.2017 14:26:36]
+Mail was not sent! Error code: 3
+
+[03.08.2017 14:27::6]
+Mail was not sent! Error code: 3
+
+[03.08.2017 14:27:37]
+Mail was not sent! Error code: 3
+
+[03.08.2017 14:28::8]
+Mail was not sent! Error code: 3
+
+[03.08.2017 14:28:39]
+Mail was not sent! Error code: 3
+
+[03.08.2017 14:29:10]
+Mail was not sent! Error code: 3
+
+[03.08.2017 14:29:41]
+Mail was not sent! Error code: 3
+
+[03.08.2017 14:30:11]
+Mail was not sent! Error code: 3
+
+[03.08.2017 14:30:42]
+Mail was not sent! Error code: 3
+
+[03.08.2017 14:31:13]
+Mail was not sent! Error code: 3
+
+[03.08.2017 14:31:44]
+Mail was not sent! Error code: 3
+
+[03.08.2017 14:32:15]
+Mail was not sent! Error code: 3
+
+[03.08.2017 14:32:45]
+Mail was not sent! Error code: 3
+
+[03.08.2017 14:33:16]
+Mail was not sent! Error code: 3
+
+[03.08.2017 14:33:47]
+Mail was not sent! Error code: 3
+
+[03.08.2017 14:34:18]
+Mail was not sent! Error code: 3
+
+[03.08.2017 15:21:22]
+Mail was not sent! Error code: 3
+
+[03.08.2017 15:21:53]
+Mail was not sent! Error code: 3
+
+[03.08.2017 15:22:23]
+Mail was not sent! Error code: 3
+
+[03.08.2017 15:22:54]
+Mail was not sent! Error code: 3
+
+[03.08.2017 15:23:25]
+Mail was not sent! Error code: 3
+
+[03.08.2017 15:23:55]
+Mail was not sent! Error code: 3
+
+[03.08.2017 15:24:26]
+Mail was not sent! Error code: 3
+
+[03.08.2017 15:24:56]
+Mail was not sent! Error code: 3
+
+[03.08.2017 15:25:27]
+Mail was not sent! Error code: 3
+
+[03.08.2017 15:25:58]
+Mail was not sent! Error code: 3
+
+[03.08.2017 15:26:28]
+Mail was not sent! Error code: 3
+
+[03.08.2017 15:26:59]
+Mail was not sent! Error code: 3
+
+[03.08.2017 15:27:29]
+Mail was not sent! Error code: 3
+
+[03.08.2017 15:28::0]
+Mail was not sent! Error code: 3
+
+[03.08.2017 15:28:31]
+Mail was not sent! Error code: 3
+
+[03.08.2017 15:29::1]
+Mail was not sent! Error code: 3
+
+[03.08.2017 15:29:32]
+Mail was not sent! Error code: 3
+
+[03.08.2017 15:30::3]
+Mail was not sent! Error code: 3
+
+[03.08.2017 15:30:33]
+Mail was not sent! Error code: 3
+
+[03.08.2017 15:31::4]
+Mail was not sent! Error code: 3
+
+[03.08.2017 15:31:34]
+Mail was not sent! Error code: 3
+
+[03.08.2017 15:32::5]
+Mail was not sent! Error code: 3
+
+[03.08.2017 15:32:36]
+Mail was not sent! Error code: 3
+
+[03.08.2017 15:33::6]
+Mail was not sent! Error code: 3
+
+[03.08.2017 15:33:37]
+Mail was not sent! Error code: 3
+
+[03.08.2017 15:34::8]
+Mail was not sent! Error code: 3
+
+[03.08.2017 15:34:38]
+Mail was not sent! Error code: 3
+
+[03.08.2017 15:35::9]
+Mail was not sent! Error code: 3
+
+[03.08.2017 15:35:40]
+Mail was not sent! Error code: 3
+
+[03.08.2017 15:36:10]
+Mail was not sent! Error code: 3
+
+[03.08.2017 15:36:41]
+Mail was not sent! Error code: 3
+
+[03.08.2017 15:37:11]
+Mail was not sent! Error code: 3
+
+[03.08.2017 15:37:42]
+Mail was not sent! Error code: 3
+
+[03.08.2017 15:38:13]
+Mail was not sent! Error code: 3
+
+[03.08.2017 15:38:43]
+Mail was not sent! Error code: 3
+
+[03.08.2017 15:39:14]
+Mail was not sent! Error code: 3
+
+[03.08.2017 15:39:45]
+Mail was not sent! Error code: 3
+
+[03.08.2017 15:40:15]
+Mail was not sent! Error code: 3
+
+[03.08.2017 15:40:46]
+Mail was not sent! Error code: 3
+
+[03.08.2017 15:41:17]
+Mail was not sent! Error code: 3
+
+[03.08.2017 15:41:47]
+Mail was not sent! Error code: 3
+
+[03.08.2017 15:42:18]
+Mail was not sent! Error code: 3
+
+[03.08.2017 15:42:48]
+Mail was not sent! Error code: 3
+
+[03.08.2017 15:43:19]
+Mail was not sent! Error code: 3
+
+[03.08.2017 15:43:50]
+Mail was not sent! Error code: 3
+
+[03.08.2017 15:44:20]
+Mail was not sent! Error code: 3
+
+[03.08.2017 15:44:51]
+Mail was not sent! Error code: 3
+
+[03.08.2017 15:45:21]
+Mail was not sent! Error code: 3
+
+[03.08.2017 15:45:52]
+Mail was not sent! Error code: 3
+
+[03.08.2017 15:46:23]
+Mail was not sent! Error code: 3
+
+[03.08.2017 15:46:53]
+Mail was not sent! Error code: 3
+
+[03.08.2017 15:47:24]
+Mail was not sent! Error code: 3
+
+[03.08.2017 15:47:54]
+Mail was not sent! Error code: 3
+
+[03.08.2017 15:48:25]
+Mail was not sent! Error code: 3
+
+[03.08.2017 15:48:56]
+Mail was not sent! Error code: 3
+
+[03.08.2017 15:49:26]
+Mail was not sent! Error code: 3
+
+[03.08.2017 15:49:57]
+Mail was not sent! Error code: 3
+
+[03.08.2017 15:50:28]
+Mail was not sent! Error code: 3
+
+[03.08.2017 15:50:58]
+Mail was not sent! Error code: 3
+
+[03.08.2017 15:51:29]
+Mail was not sent! Error code: 3
+
+[03.08.2017 15:52::0]
+Mail was not sent! Error code: 3
+
+[03.08.2017 15:52:30]
+Mail was not sent! Error code: 3
+
+[03.08.2017 15:53::1]
+Mail was not sent! Error code: 3
+
+[03.08.2017 15:53:31]
+Mail was not sent! Error code: 3
+
+[03.08.2017 15:54::2]
+Mail was not sent! Error code: 3
+
+[03.08.2017 15:54:33]
+Mail was not sent! Error code: 3
+
+[03.08.2017 15:55::3]
+Mail was not sent! Error code: 3
+
+[03.08.2017 15:55:34]
+Mail was not sent! Error code: 3
+
+[03.08.2017 15:56::5]
+Mail was not sent! Error code: 3
+
+[03.08.2017 15:56:35]
+Mail was not sent! Error code: 3
+
+[03.08.2017 15:57::6]
+Mail was not sent! Error code: 3
+
+[03.08.2017 15:57:37]
+Mail was not sent! Error code: 3
+
+[03.08.2017 15:58::7]
+Mail was not sent! Error code: 3
+
+[03.08.2017 15:58:38]
+Mail was not sent! Error code: 3
+
+[03.08.2017 15:59::8]
+Mail was not sent! Error code: 3
+
+[03.08.2017 15:59:39]
+Mail was not sent! Error code: 3
+
+[03.08.2017 16:00:10]
+Mail was not sent! Error code: 3
+
+[03.08.2017 16:00:40]
+Mail was not sent! Error code: 3
+
+[03.08.2017 16:01:11]
+Mail was not sent! Error code: 3
+
+[03.08.2017 16:01:41]
+Mail was not sent! Error code: 3
+
+[03.08.2017 16:02:12]
+Mail was not sent! Error code: 3
+
+[03.08.2017 16:02:43]
+Mail was not sent! Error code: 3
+
+[03.08.2017 16:03:13]
+Mail was not sent! Error code: 3
+
+[03.08.2017 16:03:44]
+Mail was not sent! Error code: 3
+
+[03.08.2017 16:04:14]
+Mail was not sent! Error code: 3
+
+[03.08.2017 16:04:45]
+Mail was not sent! Error code: 3
+
+[03.08.2017 16:05:16]
+Mail was not sent! Error code: 3
+
+[03.08.2017 16:05:46]
+Mail was not sent! Error code: 3
+
+[03.08.2017 16:06:17]
+Mail was not sent! Error code: 3
+
+[03.08.2017 16:06:47]
+Mail was not sent! Error code: 3
+
+[03.08.2017 16:07:18]
+Mail was not sent! Error code: 3
+
+[03.08.2017 16:07:49]
+Mail was not sent! Error code: 3
+
+[03.08.2017 16:08:19]
+Mail was not sent! Error code: 3
+
+[03.08.2017 16:08:50]
+Mail was not sent! Error code: 3
+
+[03.08.2017 16:09:20]
+Mail was not sent! Error code: 3
+
+[03.08.2017 16:09:51]
+Mail was not sent! Error code: 3
+
+[03.08.2017 16:10:22]
+Mail was not sent! Error code: 3
+
+[03.08.2017 16:10:52]
+Mail was not sent! Error code: 3
+
+[03.08.2017 16:11:23]
+Mail was not sent! Error code: 3
+
+[03.08.2017 16:11:53]
+Mail was not sent! Error code: 3
+
+[03.08.2017 16:12:24]
+Mail was not sent! Error code: 3
+
+[03.08.2017 16:12:55]
+Mail was not sent! Error code: 3
+
+[03.08.2017 16:13:25]
+Mail was not sent! Error code: 3
+
+[03.08.2017 16:13:56]
+Mail was not sent! Error code: 3
+
+[03.08.2017 16:14:27]
+Mail was not sent! Error code: 3
+
+[03.08.2017 16:14:57]
+Mail was not sent! Error code: 3
+
+[03.08.2017 16:15:28]
+Mail was not sent! Error code: 3
+
+[03.08.2017 16:15:58]
+Mail was not sent! Error code: 3
+
+[03.08.2017 16:16:29]
+Mail was not sent! Error code: 3
+
+[03.08.2017 16:17::0]
+Mail was not sent! Error code: 3
+
+[03.08.2017 16:17:30]
+Mail was not sent! Error code: 3
+
+[03.08.2017 16:18::1]
+Mail was not sent! Error code: 3
+
+[03.08.2017 16:18:31]
+Mail was not sent! Error code: 3
+
+[03.08.2017 16:19::2]
+Mail was not sent! Error code: 3
+
+[03.08.2017 16:19:33]
+Mail was not sent! Error code: 3
+
+[03.08.2017 16:20::3]
+Mail was not sent! Error code: 3
+
+[03.08.2017 16:20:34]
+Mail was not sent! Error code: 3
+
+[03.08.2017 16:21::5]
+Mail was not sent! Error code: 3
+
+[03.08.2017 16:21:35]
+Mail was not sent! Error code: 3
+
+[03.08.2017 16:22::6]
+Mail was not sent! Error code: 3
+
+[03.08.2017 16:22:36]
+Mail was not sent! Error code: 3
+
+[03.08.2017 16:23::7]
+Mail was not sent! Error code: 3
+
+[03.08.2017 16:23:38]
+Mail was not sent! Error code: 3
+
+[03.08.2017 16:24::8]
+Mail was not sent! Error code: 3
+
+[05.08.2017 15:10:59]
+Mail was not sent! Error code: 259
+
+[05.08.2017 15:32:20]
+Hook started... Timer started
+
+[05.08.2017 15:33:23]
+<From SendMail> Return code: 7
+
+[05.08.2017 15:39::5]
+Hook started... Timer started
+
+[23.08.2017 18:30:46]
+Hook started... Timer started
+
+[23.08.2017 18:40:12]
+Hook started... Timer started
+
+[23.08.2017 19:04:18]
+<From SendMail> Return code: 7
+
+[23.08.2017 19:08:22]
+Mail was not sent! Error code: 3
+
+[23.08.2017 19:08:53]
+Mail was not sent! Error code: 3
+
+[23.08.2017 19:09:23]
+Mail was not sent! Error code: 3
+
+[23.08.2017 19:09:54]
+Mail was not sent! Error code: 3
+
+[23.08.2017 19:10:24]
+Mail was not sent! Error code: 3
+
+[28.08.2017 17:01::9]
+Mail was not sent! Error code: 259
+
+[28.08.2017 17:30::8]
+Hook started... Timer started
+
+[28.08.2017 17:33:46]
+Mail was not sent! Error code: 259
+
+[28.08.2017 17:33:46]
+<From SendMail> Return code: 2046
+
+[28.08.2017 17:34:23]
+Mail was not sent! Error code: 259
+
+[28.08.2017 17:35::0]
+Mail was not sent! Error code: 259
+
+[29.08.2017 18:44:42]
+Mail was not sent! Error code: 259
+
+[10.09.2017 11:36::8]
+Mail was not sent! Error code: 259
+
+[10.09.2017 11:36:45]
+Mail was not sent! Error code: 259
+
+[10.09.2017 11:37:22]
+Mail was not sent! Error code: 259
+
+[10.09.2017 11:37:59]
+Mail was not sent! Error code: 259
+
+[10.09.2017 11:38:36]
+Mail was not sent! Error code: 259
+
+[10.09.2017 11:39:13]
+Mail was not sent! Error code: 259
+
+[10.09.2017 12:36:36]
+File creation was not successful. Keylog '[A][F][W][A][D][A][D][W][S][W][W][D][D][W][A][W][W][D][A][D][W][A][A][D][E][A][W][W][S][W][W][D][A][A][Space][Left Ctrl][/Left Ctrl][A][W][F][S][W][A][Space][A][A][W]'
+
+[10.09.2017 12:37::6]
+File creation was not successful. Keylog '[A][F][W][A][D][A][D][W][S][W][W][D][D][W][A][W][W][D][A][D][W][A][A][D][E][A][W][W][S][W][W][D][A][A][Space][Left Ctrl][/Left Ctrl][A][W][F][S][W][A][Space][A][A][W][W][W][D][A][Space][Space][A][Space][D][Left Ctrl][/Left Ctrl][A][A][D][A][W][D][D][S][A][W][D][S][S][S][S][W][W][D][W][A][A][W][W][W][A][W][A][W][W][W][A][W][A][W][W][S][S][A][W][D][S][A][W][W][A][D][A][A][W][A][D][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][N0][W][D][A][N0]'
+
+[10.09.2017 12:38::8]
+File creation was not successful. Keylog '[E][D][W][W][W][W][W][W][W][W][W][W][W][W][W][D][W][A][W][D][S][S][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][N0][N0][N0][N0][N0][N0][N0][N0][N0][N0][N0][N0][N0][N0][N0][N0][N0][N0][W][W][W][W][W][W][W][W][W][W][W][W][A][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][A][A][A][A][W][D][A][S][A][S][W][W][A][N0][N0][S][W][D][W][W][A][A][A][A][A][A][A][A][A][A][A][W]'
+
+[10.09.2017 12:45:42]
+File creation was not successful. Keylog '[W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][D][A][S][S][S][S][S][S][S][S][S][S][S][S][S][S][S][S][S][S][S][S][S][S][S][S][S][S][S][S][S][S][S][S][S][S][S][S][S][S][S][S][S][S][S][S][S][S][S][S][S][S][S][S][W][W][W][W][W][W][W][W][A][D][D][D][D][D][D][D][D][D][D][D][D][D][D][S][S][D][S][D][S][S][S][S][S][S][S][S][S][S][A]'
+
+[10.09.2017 12:46:12]
+File creation was not successful. Keylog '[W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][D][A][S][S][S][S][S][S][S][S][S][S][S][S][S][S][S][S][S][S][S][S][S][S][S][S][S][S][S][S][S][S][S][S][S][S][S][S][S][S][S][S][S][S][S][S][S][S][S][S][S][S][S][S][W][W][W][W][W][W][W][W][A][D][D][D][D][D][D][D][D][D][D][D][D][D][D][S][S][D][S][D][S][S][S][S][S][S][S][S][S][S][A][A][D][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][A][A][A][A][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][D][D][S][D][D][D][D][D][D][D][D][D][D][W][A][D][A][A][D][D][D][D][D][D][D][E][A][S][A]'
+
+[10.09.2017 12:46:42]
+[10.09.2017 16:03:53]
+Mail was not sent! Error code: -1073741502
+
+[10.09.2017 16:06:37]
+Hook started... Timer started
+
+[10.09.2017 16:12:16]
+Mail was not sent! Error code: 259
+
+[10.09.2017 16:12:16]
+<From SendMail> Return code: 2046
+
+[10.09.2017 16:12:53]
+Mail was not sent! Error code: 259
+
+[10.09.2017 16:13:30]
+Mail was not sent! Error code: 259
+
+[10.09.2017 16:14::7]
+Mail was not sent! Error code: 259
+
+[10.09.2017 16:40:10]
+File creation was not successful. Keylog '[D][D][W][W][W][W][D][D][S][W][D][W][D][S][A][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][A][D][D][D][D][D][D][D][D][D][D][D][D][D][D][D][D][D][D][D][D][D][D][D][D][D][D][D][D][D][D][D][A][D][A][A][D][D][D][A][A][D][A][D][D][D][A]'
+
+[10.09.2017 16:40:40]
+File creation was not successful. Keylog '[D][D][W][W][W][W][D][D][S][W][D][W][D][S][A][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][A][D][D][D][D][D][D][D][D][D][D][D][D][D][D][D][D][D][D][D][D][D][D][D][D][D][D][D][D][D][D][D][A][D][A][A][D][D][D][A][A][D][A][D][D][D][A][A][A][D][A][D][A][D][A][A][E][D][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][Space][E][A][W][W][E][A][W][W][E][A][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][A][D][D][D][D][D][D][D][D][W][W][S][A][W][A]'
+
+[10.09.2017 16:41:10]
+File creation was not successful. Keylog '[D][D][W][W][W][W][D][D][S][W][D][W][D][S][A][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][A][D][D][D][D][D][D][D][D][D][D][D][D][D][D][D][D][D][D][D][D][D][D][D][D][D][D][D][D][D][D][D][A][D][A][A][D][D][D][A][A][D][A][D][D][D][A][A][A][D][A][D][A][D][A][A][E][D][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][Space][E][A][W][W][E][A][W][W][E][A][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][A][D][D][D][D][D][D][D][D][W][W][S][A][W][A][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][D][A][A][A][A][A][A][A][A][A][D][E][E][E][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][Space][A][D][W][E][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][A][D][D][D][A][S][E][D][W][D][A][A][D][E]'
+
+[10.09.2017 16:41:40]
+File creation was not successful. Keylog '[D][D][W][W][W][W][D][D][S][W][D][W][D][S][A][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][A][D][D][D][D][D][D][D][D][D][D][D][D][D][D][D][D][D][D][D][D][D][D][D][D][D][D][D][D][D][D][D][A][D][A][A][D][D][D][A][A][D][A][D][D][D][A][A][A][D][A][D][A][D][A][A][E][D][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][Space][E][A][W][W][E][A][W][W][E][A][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][A][D][D][D][D][D][D][D][D][W][W][S][A][W][A][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][D][A][A][A][A][A][A][A][A][A][D][E][E][E][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][Space][A][D][W][E][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W][W[10.09.2017 16:41:40]
+[10.09.2017 16:43:16]
+[10.09.2017 16:43:16]
+[10.09.2017 16:43:46]
+[10.09.2017 16:43:46]
+[10.09.2017 16:44:16]
+[10.09.2017 16:44:16]
+[10.09.2017 16:44:46]
+[10.09.2017 16:44:46]
+[10.09.2017 16:50:42]
+[10.09.2017 16:50:42]
+[10.09.2017 16:52:45]
+[10.09.2017 16:52:45]
+[10.09.2017 16:53:15]
+[10.09.2017 16:53:15]
+[10.09.2017 16:59::1]
+[10.09.2017 17:31:41]
+Mail was not sent! Error code: 259
+
+[11.09.2017 20:31:55]
+File creation was not successful. Keylog '[S][A][L][E][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][W][I][N][D][S][O][R][Enter]
+'
+
+[11.09.2017 20:32:25]
+File creation was not successful. Keylog '[S][A][L][E][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][W][I][N][D][S][O][R][Enter]
+'
+
+[11.09.2017 20:32:55]
+File creation was not successful. Keylog '[S][A][L][E][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][W][I][N][D][S][O][R][Enter]
+[F][E][M][I][N][I][S][T][Space][S][H][I][R][T][Enter]
+'
+
+[11.09.2017 20:49::5]
+File creation was not successful. Keylog '[Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Up][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down]'
+
+[11.09.2017 20:50::8]
+File creation was not successful. Keylog '[Arrow Right][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Up][Arrow Up][Arrow Up][Arrow Up][Arrow Up][Arrow Up][Arrow Up][Arrow Up][Arrow Up][Arrow Up][Arrow Up][Arrow Up][Arrow Up][Arrow Up][Arrow Up][Arrow Up][Arrow Up][Arrow Up][Arrow Up][Arrow Up][Arrow Up][Arrow Up][Arrow Up][Arrow Up][Arrow Up][Arrow Up][Arrow Up][Arrow Up][Arrow Up][Arrow Up][Arrow Up][Arrow Up][Arrow Up][Arrow Up][Arrow Up][Arrow Up][Arrow Up][Arrow Up][Arrow Up][Arrow Up][Arrow Up][Arrow Up][Arrow Up][Arrow Up][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Space][S][H][I][R][T][Enter]
+[Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Up][Arrow Up][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down]'
+
+[11.09.2017 20:50:38]
+File creation was not successful. Keylog '[Arrow Right][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Up][Arrow Up][Arrow Up][Arrow Up][Arrow Up][Arrow Up][Arrow Up][Arrow Up][Arrow Up][Arrow Up][Arrow Up][Arrow Up][Arrow Up][Arrow Up][Arrow Up][Arrow Up][Arrow Up][Arrow Up][Arrow Up][Arrow Up][Arrow Up][Arrow Up][Arrow Up][Arrow Up][Arrow Up][Arrow Up][Arrow Up][Arrow Up][Arrow Up][Arrow Up][Arrow Up][Arrow Up][Arrow Up][Arrow Up][Arrow Up][Arrow Up][Arrow Up][Arrow Up][Arrow Up][Arrow Up][Arrow Up][Arrow Up][Arrow Up][Arrow Up][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Space][S][H][I][R][T][Enter]
+[Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Up][Arrow Up][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Up][Arrow Up][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down]'
+
+[11.09.2017 20:51::8]
+[11.09.2017 20:51::8]
+[11.09.2017 20:54:52]
+[11.09.2017 20:54:52]
+[11.09.2017 21:09:44]
+[11.09.2017 21:09:44]
+[11.09.2017 21:38:57]
+[15.09.2017 18:32::3]
+Mail was not sent! Error code: 259
+
+[17.09.2017 21:25:23]
+File creation was not successful. Keylog '[Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down]'
+
+[17.09.2017 21:25:53]
+File creation was not successful. Keylog '[Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down]'
+
+[17.09.2017 21:26:23]
+File creation was not successful. Keylog '[Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down]'
+
+[17.09.2017 21:26:53]
+File creation was not successful. Keylog '[Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Dow[17.09.2017 21:26:53]
+[17.09.2017 21:27:23]
+[17.09.2017 21:27:23]
+[17.09.2017 21:27:53]
+[17.09.2017 21:27:53]
+[17.09.2017 21:28:23]
+[17.09.2017 21:28:23]
+[17.09.2017 21:28:53]
+[17.09.2017 21:28:53]
+[17.09.2017 21:29:23]
+[17.09.2017 21:29:23]
+[17.09.2017 21:29:53]
+[17.09.2017 21:29:53]
+[17.09.2017 21:30:23]
+[17.09.2017 21:30:23]
+[29.09.2017 14:03:32]
+Hook started... Timer started
+
+[30.09.2017 20:13:26]
+Mail was not sent! Error code: 259
+
+[30.09.2017 20:13:26]
+<From SendMail> Return code: 2046
+
+[30.09.2017 20:14::3]
+Mail was not sent! Error code: 259
+
+[30.09.2017 20:37:31]
+Mail was not sent! Error code: 259
+
+[04.10.2017 18:02::1]
+[04.10.2017 18:02::1]
+[04.10.2017 18:02:31]
+[04.10.2017 18:02:31]
+[04.10.2017 18:03::1]
+[04.10.2017 18:03::1]
+[04.10.2017 18:03:31]
+[04.10.2017 18:03:31]
+[04.10.2017 18:04::1]
+[04.10.2017 18:04::1]
+[04.10.2017 20:41:51]
+Mail was not sent! Error code: -3
+
+[04.10.2017 20:42:25]
+Mail was not sent! Error code: -3
+
+[09.10.2017 15:44::7]
+Mail was not sent! Error code: -3
+
+[09.10.2017 15:44:37]
+File creation was not successful. Keylog '[D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D4][D[09.10.2017 15:44:37]
+[09.10.2017 15:45::7]
+[09.10.2017 15:45::7]
+[09.10.2017 15:45:37]
+[09.10.2017 15:45:37]
+[09.10.2017 15:46::9]
+Mail was not sent! Error code: -3
+
+[09.10.2017 15:46:43]
+Mail was not sent! Error code: -3
+
+[09.10.2017 15:47:15]
+Mail was not sent! Error code: -3
+
+[09.10.2017 20:44:12]
+Hook started... Timer started
+
+[09.10.2017 20:50:23]
+Mail was not sent! Error code: 259
+
+[09.10.2017 20:50:23]
+<From SendMail> Return code: 2046
+
+[09.10.2017 20:51::0]
+Mail was not sent! Error code: 259
+
+[10.10.2017 17:25:54]
+Hook started... Timer started
+
+[10.10.2017 17:48::0]
+<From SendMail> Return code: 7
+
+[10.10.2017 18:01:59]
+Mail was not sent! Error code: 259
+
+[10.10.2017 18:04:59]
+[10.10.2017 18:04:59]
+[10.10.2017 18:05:29]
+[10.10.2017 18:05:29]
+[10.10.2017 18:05:59]
+[10.10.2017 18:08::6]
+Mail was not sent! Error code: 259
+
+[10.10.2017 18:08:43]
+Mail was not sent! Error code: 259
+
+[10.10.2017 18:09:20]
+Mail was not sent! Error code: 259
+
+[10.10.2017 18:09:57]
+Mail was not sent! Error code: 259
+
+[10.10.2017 18:10:35]
+Mail was not sent! Error code: 259
+
+[10.10.2017 18:11:12]
+Mail was not sent! Error code: 259
+
+[10.10.2017 18:11:49]
+Mail was not sent! Error code: 259
+
+[10.10.2017 18:12:26]
+Mail was not sent! Error code: 259
+
+[10.10.2017 18:13::3]
+Mail was not sent! Error code: 259
+
+[10.10.2017 18:13:40]
+Mail was not sent! Error code: 259
+
+[10.10.2017 18:14:17]
+Mail was not sent! Error code: 259
+
+[10.10.2017 18:14:54]
+Mail was not sent! Error code: 259
+
+[10.10.2017 18:15:31]
+Mail was not sent! Error code: 259
+
+[10.10.2017 18:16::8]
+Mail was not sent! Error code: 259
+
+[10.10.2017 18:16:45]
+Mail was not sent! Error code: 259
+
+[10.10.2017 18:17:22]
+Mail was not sent! Error code: 259
+
+[10.10.2017 18:17:52]
+File creation was not successful. Keylog '[G][O][O][D][Backspace][G][L][E][Space][G][A][N][Backspace][Backspace][Backspace][H][A][N][G][O][O][U][T][S][Enter]
+[E][M][M][A][V][A][W][D][R][E][Y][Right Shift][D2][/Right Shift][G][M][A][I][L][OEM_PERIOD (> .)][C][O][M][Enter]
+[S][U][P][E][R][W][H][O][L][O][K][A][D][V][E][N][T][U][R][E][S][D0][D9][D9][Enter]
+[S][U][P][E][R][W][H][O][L][O][C][K][A][D][V][E][N][T][U][R][E][S][D0][D9][D9][Enter]
+[Left Ctrl][/Left Ctrl][Left Ctrl][/Left Ctrl][D][O][Space][Y][O][U][Space][W][A][N][T][Space][M][E][Space][T][O][Space][H][A][N][G][Space][U][P][Enter]
+'
+
+[10.10.2017 18:47:36]
+Mail was not sent! Error code: 259
+
+[10.10.2017 18:48:13]
+Mail was not sent! Error code: 259
+
+[10.10.2017 19:20:44]
+Mail was not sent! Error code: 259
+
+[10.10.2017 19:23:11]
+Mail was not sent! Error code: 259
+
+[10.10.2017 19:24:18]
+File creation was not successful. Keylog '[Left Shift][I][Space][/Left Shift][D][O][N][T][Backspace][OEM_7 (" ')][T][Space][K][N][O][W][Space][W][H][Y][Space][Left Shift][I][/Left Shift][OEM_7 (" ')][M][Space][C][R][Y][I][N][G][Space][O][Backspace][S][M][Space][Y][C][H][Enter]
+'
+
+[10.10.2017 19:24:48]
+File creation was not successful. Keylog '[Left Shift][I][Space][/Left Shift][D][O][N][T][Backspace][OEM_7 (" ')][T][Space][K][N][O][W][Space][W][H][Y][Space][Left Shift][I][/Left Shift][OEM_7 (" ')][M][Space][C][R][Y][I][N][G][Space][O][Backspace][S][M][Space][Y][C][H][Enter]
+[Left Shift][I][/Left Shift][OEM_7 (" ')][M][Space][T][R][Y][I][N][G][Enter]
+[Left Shift][I][/Left Shift][Space][K][N][O][W][Enter]
+'
+
+[10.10.2017 19:25:18]
+File creation was not successful. Keylog '[Left Shift][I][Space][/Left Shift][D][O][N][T][Backspace][OEM_7 (" ')][T][Space][K][N][O][W][Space][W][H][Y][Space][Left Shift][I][/Left Shift][OEM_7 (" ')][M][Space][C][R][Y][I][N][G][Space][O][Backspace][S][M][Space][Y][C][H][Enter]
+[Left Shift][I][/Left Shift][OEM_7 (" ')][M][Space][T][R][Y][I][N][G][Enter]
+[Left Shift][I][/Left Shift][Space][K][N][O][W][Enter]
+[N][O][Enter]
+[Left Shift][I][/Left Shift][Space][K][N][O][W][Space][Y][O][U][R][OEM_7 (" ')][E][Space][N][O][T][Enter]
+'
+
+[10.10.2017 19:25:48]
+File creation was not successful. Keylog '[Left Shift][I][Space][/Left Shift][D][O][N][T][Backspace][OEM_7 (" ')][T][Space][K][N][O][W][Space][W][H][Y][Space][Left Shift][I][/Left Shift][OEM_7 (" ')][M][Space][C][R][Y][I][N][G][Space][O][Backspace][S][M][Space][Y][C][H][Enter]
+[Left Shift][I][/Left Shift][OEM_7 (" ')][M][Space][T][R][Y][I][N][G][Enter]
+[Left Shift][I][/Left Shift][Space][K][N][O][W][Enter]
+[N][O][Enter]
+[Left Shift][I][/Left Shift][Space][K][N][O][W][Space][Y][O][U][R][OEM_7 (" ')][E][Space][N][O][T][Enter]
+'
+
+[10.10.2017 19:26:18]
+[10.10.2017 19:26:18]
+[10.10.2017 19:26:48]
+[10.10.2017 19:26:48]
+[10.10.2017 19:27:18]
+[10.10.2017 19:27:18]
+[10.10.2017 19:27:48]
+[10.10.2017 19:27:48]
+[10.10.2017 19:28:18]
+[10.10.2017 19:28:18]
+[10.10.2017 19:28:48]
+[10.10.2017 19:28:48]
+[10.10.2017 19:29:18]
+[10.10.2017 19:29:18]
+[10.10.2017 19:29:48]
+[10.10.2017 19:29:48]
+[10.10.2017 19:34:35]
+Mail was not sent! Error code: 259
+
+[10.10.2017 19:35:12]
+Mail was not sent! Error code: 259
+
+[10.10.2017 19:46:26]
+Mail was not sent! Error code: 259
+
+[10.10.2017 19:47::3]
+Mail was not sent! Error code: 259
+
+[10.10.2017 20:10:46]
+Mail was not sent! Error code: 259
+
+[10.10.2017 20:11:23]
+Mail was not sent! Error code: 259
+
+[10.10.2017 20:12::0]
+Mail was not sent! Error code: 259
+
+[10.10.2017 20:12:37]
+Mail was not sent! Error code: 259
+
+[10.10.2017 20:13:14]
+Mail was not sent! Error code: 259
+
+[10.10.2017 20:21:28]
+Mail was not sent! Error code: 259
+
+[10.10.2017 20:22::5]
+Mail was not sent! Error code: 259
+
+[10.10.2017 20:22:42]
+Mail was not sent! Error code: 259
+
+[10.10.2017 20:50:56]
+Mail was not sent! Error code: 259
+
+[10.10.2017 20:51:33]
+Mail was not sent! Error code: 259
+
+[10.10.2017 20:52:10]
+Mail was not sent! Error code: 259
+
+[10.10.2017 20:52:47]
+Mail was not sent! Error code: 259
+
+[10.10.2017 20:53:24]
+Mail was not sent! Error code: 259
+
+[10.10.2017 20:54::1]
+Mail was not sent! Error code: 259
+
+[10.10.2017 21:01:45]
+Mail was not sent! Error code: 259
+
+[11.10.2017 18:41:30]
+File creation was not successful. Keylog '[C][O][M][Enter]
+[S][U][P][E][R][W][H][O][L][O][C][K][A][D][V][E][N][T][U][R][E][S][D0][D9][D9][Enter]
+[Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace]'
+
+[11.10.2017 18:42::0]
+File creation was not successful. Keylog '[C][O][M][Enter]
+[S][U][P][E][R][W][H][O][L][O][C][K][A][D][V][E][N][T][U][R][E][S][D0][D9][D9][Enter]
+[Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Enter]
+'
+
+[11.10.2017 18:42:30]
+File creation was not successful. Keylog '[C][O][M][Enter]
+[S][U][P][E][R][W][H][O][L][O][C][K][A][D][V][E][N][T][U][R][E][S][D0][D9][D9][Enter]
+[Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Enter]
+'
+
+[11.10.2017 18:43::0]
+File creation was not successful. Keylog '[C][O][M][Enter]
+[S][U][P][E][R][W][H][O][L][O][C][K][A][D][V][E][N][T][U][R][E][S][D0][D9][D9][Enter]
+[Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Enter]
+[H][A][L][L][O][W][E][E][N][Space][M][I][X][Enter]
+[Arrow Right][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down]'
+
+[11.10.2017 18:43:30]
+File creation was not successful. Keylog '[C][O][M][Enter]
+[S][U][P][E][R][W][H][O][L][O][C][K][A][D][V][E][N][T][U][R][E][S][D0][D9][D9][Enter]
+[Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Enter]
+[H][A][L][L][O][W][E][E][N][Space][M][I][X][Enter]
+[Arrow Right][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down]'
+
+[11.10.2017 18:44::0]
+File creation was not successful. Keylog '[C][O][M][Enter]
+[S][U][P][E][R][W][H][O][L][O][C][K][A][D][V][E][N][T][U][R][E][S][D0][D9][D9][Enter]
+[Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Enter]
+[H][A][L][L][O][W][E][E][N][Space][M][I][X][Enter]
+[Arrow Right][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down][Arrow Down]'
+
+[11.10.2017 18:44:30]
+[11.10.2017 18:44:30]
+[11.10.2017 18:45::0]
+[11.10.2017 18:45::0]
+[11.10.2017 18:45:37]
+Mail was not sent! Error code: 259
+
+[11.10.2017 18:46:14]
+Mail was not sent! Error code: 259
+
+[11.10.2017 18:46:51]
+Mail was not sent! Error code: 259
+
+[11.10.2017 18:47:28]
+Mail was not sent! Error code: 259
+
+[11.10.2017 18:48::5]
+Mail was not sent! Error code: 259
+
+[11.10.2017 18:48:42]
+Mail was not sent! Error code: 259
+
+[11.10.2017 18:49:19]
+Mail was not sent! Error code: 259
+
+[11.10.2017 18:49:57]
+Mail was not sent! Error code: 259
+
+[11.10.2017 18:50:34]
+Mail was not sent! Error code: 259
+
+[11.10.2017 18:51:11]
+Mail was not sent! Error code: 259
+
+[11.10.2017 18:51:48]
+Mail was not sent! Error code: 259
+
+[11.10.2017 18:52:25]
+Mail was not sent! Error code: 259
+
+[11.10.2017 18:53::2]
+Mail was not sent! Error code: 259
+
+[11.10.2017 18:53:39]
+Mail was not sent! Error code: 259
+
+[11.10.2017 18:54:16]
+Mail was not sent! Error code: 259
+
+[11.10.2017 18:54:53]
+Mail was not sent! Error code: 259
+
+[11.10.2017 18:55:30]
+Mail was not sent! Error code: 259
+
+[11.10.2017 18:56::7]
+Mail was not sent! Error code: 259
+
+[11.10.2017 18:56:44]
+Mail was not sent! Error code: 259
+
+[11.10.2017 19:10:57]
+Mail was not sent! Error code: 259
+
+[11.10.2017 19:11:34]
+Mail was not sent! Error code: 259
+
+[11.10.2017 19:12:11]
+Mail was not sent! Error code: 259
+
+[11.10.2017 19:12:48]
+Mail was not sent! Error code: 259
+
+[11.10.2017 20:34:33]
+Mail was not sent! Error code: 259
+
+[11.10.2017 20:35:47]
+Mail was not sent! Error code: 259
+
+[11.10.2017 20:36:24]
+Mail was not sent! Error code: 259
+
+[11.10.2017 20:37::1]
+Mail was not sent! Error code: 259
+
+[12.10.2017 19:15:43]
+Hook started... Timer started
+
+[13.10.2017 17:17:40]
+Hook started... Timer started
+
+[14.10.2017 16:54:13]
+<From SendMail> Return code: 7
+
+[14.10.2017 16:55:18]
+File creation was not successful. Keylog '[I][Z][Z][I][E][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][L][I][Z][Z][I][E][D1][D2][Enter]
+[L][I][Z][Z][I][E][D1][D2][D3][Enter]
+'
+
+[14.10.2017 16:55:48]
+File creation was not successful. Keylog '[I][Z][Z][I][E][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][L][I][Z][Z][I][E][D1][D2][Enter]
+[L][I][Z][Z][I][E][D1][D2][D3][Enter]
+[L][I][Z][Z][I][E][D1][D2][D3][Enter]
+'
+
+[14.10.2017 16:56:52]
+File creation was not successful. Keylog '[E][Space][Space][Backspace][Backspace][M][M][A][V][A][W][D][R][E][Y][Right Shift][D2][/Right Shift][G][M][A][I][L][OEM_PERIOD (> .)][C][O][M][Enter]
+[L][I][Backspace][Backspace][S][U][P][E][R][W][H][O][L][O][C][K][A][D][V][E][N][T][U][R][E][S][D0][D9][D9][Enter]
+'
+
+[14.10.2017 22:09::5]
+Mail was not sent! Error code: 259
+
+[14.10.2017 22:26::3]
+Mail was not sent! Error code: 3
+
+[14.10.2017 22:26:36]
+Mail was not sent! Error code: 3
+
+[15.10.2017 12:29::4]
+Mail was not sent! Error code: 259
+
+[15.10.2017 12:39:49]
+Mail was not sent! Error code: 259
+
+[15.10.2017 13:30:11]
+Mail was not sent! Error code: 259
+
+[15.10.2017 13:30:48]
+Mail was not sent! Error code: 259
+
+[15.10.2017 15:06:53]
+Mail was not sent! Error code: 259
+
+[15.10.2017 17:12:30]
+Mail was not sent! Error code: 259
+
+[16.10.2017 20:55::4]
+Mail was not sent! Error code: 259
+
+[18.10.2017 18:39::6]
+Mail was not sent! Error code: 259
+
+[18.10.2017 18:49:36]
+Mail was not sent! Error code: 259
+
+[21.10.2017 19:54:19]
+Mail was not sent! Error code: 259
+
+[22.10.2017 10:20:53]
+Mail was not sent! Error code: 259
+
+[22.10.2017 10:28:32]
+Mail was not sent! Error code: 259
+
+[22.10.2017 13:13:47]
+Mail was not sent! Error code: 259
+
+[22.10.2017 13:14:24]
+Mail was not sent! Error code: 259
+
+[24.10.2017 20:15::2]
+Mail was not sent! Error code: 259
+
+[24.10.2017 21:08:45]
+Mail was not sent! Error code: 259
+
+[25.10.2017 22:45::8]
+Mail was not sent! Error code: 259
+
+[25.10.2017 22:48:24]
+[25.10.2017 22:48:24]
+[25.10.2017 22:54:29]
+[25.10.2017 22:54:29]
+[25.10.2017 23:30:35]
+Mail was not sent! Error code: 259
+
+[25.10.2017 23:37:54]
+Mail was not sent! Error code: 259
+
+[01.11.2017 19:18:29]
+Hook started... Timer started
+
+[01.11.2017 19:20:37]
+Mail was not sent! Error code: 259
+
+[01.11.2017 19:20:37]
+<From SendMail> Return code: 2046
+
+[01.11.2017 19:21:16]
+Mail was not sent! Error code: 259
+
+[01.11.2017 19:21:55]
+Mail was not sent! Error code: 259
+
+[01.11.2017 19:22:33]
+Mail was not sent! Error code: 259
+
+[01.11.2017 19:23:10]
+Mail was not sent! Error code: 259
+
+[01.11.2017 19:23:47]
+Mail was not sent! Error code: 259
+
+[01.11.2017 19:24:24]
+Mail was not sent! Error code: 259
+
+[01.11.2017 19:25::1]
+Mail was not sent! Error code: 259
+
+[01.11.2017 19:25:47]
+Mail was not sent! Error code: 259
+
+[01.11.2017 20:39:30]
+Mail was not sent! Error code: 259
+
+[02.11.2017 19:23:28]
+Mail was not sent! Error code: 259
+
+[02.11.2017 19:24::5]
+Mail was not sent! Error code: 259
+
+[02.11.2017 19:24:42]
+Mail was not sent! Error code: 259
+
+[02.11.2017 19:25:19]
+Mail was not sent! Error code: 259
+
+[02.11.2017 19:25:56]
+Mail was not sent! Error code: 259
+
+[02.11.2017 19:26:33]
+Mail was not sent! Error code: 259
+
+[02.11.2017 19:27:10]
+Mail was not sent! Error code: 259
+
+[03.11.2017 18:30:42]
+Mail was not sent! Error code: 3
+
+[06.11.2017 19:31::3]
+File creation was not successful. Keylog '[H][Enter]
+[L][I][Backspace][Backspace][S][U][P][E][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][S][U][P][E][R][W][H][O][L][O][C][K][A][D][V][E][N][T][U][R][E][S][D0][D9][D9][Enter]
+'
+
+[06.11.2017 20:50:55]
+File creation was not successful. Keylog '[Left Shift][/Left Shift][Left Shift][I][/Left Shift][OEM_7 (" ')][M][Space][H][E][R][E][Enter]
+[C][A][N][Space][Y][O][U][Space][N][O][T][Space][H][E][A][R][Space][M][E][Enter]
+'
+
+[06.11.2017 20:51:25]
+File creation was not successful. Keylog '[Left Shift][/Left Shift][Left Shift][I][/Left Shift][OEM_7 (" ')][M][Space][H][E][R][E][Enter]
+[C][A][N][Space][Y][O][U][Space][N][O][T][Space][H][E][A][R][Space][M][E][Enter]
+[Left Shift][I][/Left Shift][OEM_7 (" ')][M][Space][T][A][K][I][N][G][Enter]
+[M][O][M][Backspace][Backspace][Backspace][L][I][Z][Z][I][E][Enter]
+[L][O][L][Enter]
+[P][Backspace][Backspace][Left Shift][I][/Left Shift][OEM_7 (" ')][M][Space][T][A][L][K][I][N][G][Enter]
+[C][A][N][Space][Y][O][U][Space][H][E][A][R][Space][M][E][E][E][Enter]
+[A][S][E][S][G][G][S][Enter]
+[N][O][Enter]
+[N][O][Enter]
+'
+
+[06.11.2017 20:51:55]
+File creation was not successful. Keylog '[Left Shift][/Left Shift][Left Shift][I][/Left Shift][OEM_7 (" ')][M][Space][H][E][R][E][Enter]
+[C][A][N][Space][Y][O][U][Space][N][O][T][Space][H][E][A][R][Space][M][E][Enter]
+[Left Shift][I][/Left Shift][OEM_7 (" ')][M][Space][T][A][K][I][N][G][Enter]
+[M][O][M][Backspace][Backspace][Backspace][L][I][Z][Z][I][E][Enter]
+[L][O][L][Enter]
+[P][Backspace][Backspace][Left Shift][I][/Left Shift][OEM_7 (" ')][M][Space][T][A][L][K][I][N][G][Enter]
+[C][A][N][Space][Y][O][U][Space][H][E][A][R][Space][M][E][E][E][Enter]
+[A][S][E][S][G][G][S][Enter]
+[N][O][Enter]
+[N][O][Enter]
+[N][O][Enter]
+[N][O][Enter]
+[N][O][Enter]
+[Left Shift][I][/Left Shift][OEM_7 (" ')][M][Space][H][E][R][E][Enter]
+'
+
+[06.11.2017 20:52:25]
+[06.11.2017 20:52:25]
+[07.11.2017 19:36:43]
+Mail was not sent! Error code: 259
+
+[07.11.2017 19:37:20]
+Mail was not sent! Error code: 259
+
+[07.11.2017 19:55:16]
+Mail was not sent! Error code: 259
+
+[07.11.2017 19:55:53]
+Mail was not sent! Error code: 259
+
+[12.11.2017 11:57:48]
+Mail was not sent! Error code: 259
+
+[12.11.2017 11:58:25]
+Mail was not sent! Error code: 259
+
+[12.11.2017 12:53:37]
+Mail was not sent! Error code: 259
+
+[16.11.2017 18:40:10]
+Mail was not sent! Error code: 259
+
+[17.11.2017 20:00:43]
+Mail was not sent! Error code: 259
+
+[17.11.2017 20:43::2]
+Mail was not sent! Error code: 259
+
+[17.11.2017 20:43:39]
+Mail was not sent! Error code: 259
+
+[17.11.2017 20:44:16]
+Mail was not sent! Error code: 259
+
+[17.11.2017 20:44:53]
+Mail was not sent! Error code: 259
+
+[17.11.2017 20:45:30]
+Mail was not sent! Error code: 259
+
+[17.11.2017 20:46::7]
+Mail was not sent! Error code: 259
+
+[17.11.2017 20:46:44]
+Mail was not sent! Error code: 259
+
+[17.11.2017 20:47:21]
+Mail was not sent! Error code: 259
+
+[17.11.2017 20:52::4]
+Mail was not sent! Error code: 259
+
+[17.11.2017 20:52:41]
+Mail was not sent! Error code: 259
+
+[17.11.2017 20:53:18]
+Mail was not sent! Error code: 259
+
+[17.11.2017 20:53:55]
+Mail was not sent! Error code: 259
+
+[19.11.2017 18:48:22]
+Mail was not sent! Error code: 259
+
+[21.11.2017 22:24::2]
+Mail was not sent! Error code: 259
+
+[22.11.2017 16:08::6]
+Mail was not sent! Error code: 259
+

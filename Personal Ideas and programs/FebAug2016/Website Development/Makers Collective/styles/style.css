@@ -1,0 +1,470 @@
+body{
+	background:url("../images/shattered.png");
+	min-width:950px;
+	width:100%;
+	height:100%;
+}
+html{
+	width:100%;
+	height:100%;
+}
+
+textarea{
+	width:100%;
+	height:250px;
+}
+
+#wrapper{
+	margin:0 auto;
+	padding:10px;
+	width: calc(100% - 142px);
+	height:100%;
+}
+
+#top{
+	display:block;
+	background-color:#00AFBF;
+	height:124px;
+	width:100%;
+	position:relative;
+	border-bottom:5px solid #0096A3;
+}
+
+#nav{
+	text-align:center;
+	height:64px;
+	width:100%;
+	background:url("../images/tiny_grid.png");
+	background-color:#FCFCFC;
+	line-height:64px;
+	position:relative;
+}
+
+#nav .bottom{
+	position:absolute;
+	height:64px;
+	line-height:64px;
+	bottom:0;
+	width:100%;
+	text-align:left;
+	background-color:#212a34;
+}
+
+#nav li{
+	list-style:none;
+	display:inline-block;
+	min-width:128px;
+	height:64px;
+}
+#nav li a{
+	font-family: 'Avant Garde', Avantgarde, 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+	min-width:84px;
+	height:64px;
+	display:inline-block;
+	margin-right:16px;
+	margin-left:16px;
+	color:white;
+	line-height:54px;
+	text-align:center;
+	transition:.5s;
+	-o-transition:.5s;
+	-moz-transition:.5s;
+	-webkit-transition:.5s;
+    -webkit-transition-timing-function: ease-in; /* Safari and Chrome */
+    transition-timing-function: ease-in;
+	width:100%;
+	height:5px;
+	background:transparent;
+}
+
+#nav li:hover > a{
+	width:100%;
+	height:5px;
+	background:#00AFBF;
+}
+
+#main{
+	height:100%;
+	width:100%;
+	max-width:100%;
+	min-height:100%;
+	position:relative;
+}
+
+#slideshow{
+	width:100%;
+	height:256px;
+	position:relative;
+	background-size:100% 100%;
+}
+#slideshow .cover{
+	opacity:.8;
+	width:100%;
+	height:100%;
+	background-color:rgba(0,0,0,.5);
+	background-image:url("../images/cubes.png");
+}
+#slideshow .bottom{
+	width:100%;
+	height:16px;
+	position:absolute;
+	bottom:0;
+	background-color:rgba(0,0,0,.1);
+}
+#slideshow .bottom .filler{
+	height:32px;
+	width:0%;
+	position:absolute;
+	left:0;
+	background-color:#00AFBF;
+	transition:1s;
+	-o-transition:1s;
+	-moz-transition:1s;
+	-webkit-transition:1s;
+	transition-timing-function:linear;
+	-o-transition-timing-function:linear;
+	-moz-transition-timing-function:linear;
+	-webkit-transition-timing-function:linear;
+}
+#slideshow #desc{
+	position:absolute;
+	top:0;
+	background-color:rgba(0,0,0,.4);
+	width:100%;
+	height:64px;
+}
+#slideshow #desc .title{
+	padding:5px;
+	text-indent:0px;
+	z-index:5;
+	font-size:24px;
+	color:#00AFBF;
+}
+#container{
+	margin-bottom:64px;
+}
+
+.title1, .title12{
+	color:white;
+	font-family: 'Avant Garde', Avantgarde, 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+	font-size:24px;
+	display:block;
+	line-height:32px;
+	text-indent:16px;
+}
+.title2{
+	color:white;
+	font-family: 'Avant Garde', Avantgarde, 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+	font-size:48px;
+	margin:16px;
+	text-shadow: 1px 1px 1px black;
+
+}
+
+.corner.right{
+	position:fixed;
+	right:0;
+	height:100%;
+	width:64px;
+	background-color:rgba(0,0,0,.5);
+	z-index:10000;
+	margin-right:-64px;
+}
+.corner.left{
+	position:fixed;
+	left:0;
+	height:100%;
+	width:64px;
+	background-color:rgba(0,0,0,.5);
+	z-index:10000;
+	margin-left:-64px;
+}
+
+p.title{
+	font-size:24px;
+	color:#00AFBF;
+	text-align:left;
+	text-indent:32px;
+	font-family: 'Avant Garde', Avantgarde, 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+}
+
+
+.stretch {
+    width: 100%;
+    display: inline-block;
+	*display: inline;
+	zoom:1;
+    font-size: 0;
+    line-height: 0;
+	margin-top:128px;
+}
+
+
+/*This is the normal content box*/
+	.content{
+		float:left;
+		height:10px;
+		width:10px;
+		background-color:#F9FFF9;
+		position:relative;
+		top:64px;
+		margin:.25% !important;
+		padding:10px !important;
+		margin-top:0;
+		padding-top:0;
+		
+		vertical-align: top;
+		display: inline-block;
+		*display: inline;
+		zoom: 1;
+	}
+	.content .inside{
+		min-width:calc(100% - 15px);
+		min-height:calc(100% - 10px);
+		position:relative;
+		word-wrap: break-word;
+		display:inline-block;
+		font-family: 'Avant Garde', Avantgarde, 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+	}
+/*SIZES OF THE CONTENT BOXES*/
+	/*The .content.l will cover the entire section of that page. */
+	.content.l{
+		min-width:calc(100% - 10px);
+	}
+	/*This is used if you want to have a section with two different content boxes */
+	.content.m{
+		min-width:calc(73% - 10px);
+	}
+	/*This is used if you want 3 boxes instead of 4 or 2*/
+	.content.s2{
+		min-width:calc(31.5% - 10px);
+	}
+	/*Again this is used if you want to have a section with two different content boxes, except this is half the height of .m*/
+	.content.s{
+		min-width:calc(24% - 10px);
+	}
+/*END OF SIZES*/
+
+/*HEIGHTS OF THE CONTENT BOXES*/
+	/*lh will take up the entire page(In example: 100%)*/
+	.content.lh{
+		min-height:500px;
+		height:auto;
+	}
+	/*mh will take up half of the page height(In Example:50%)*/
+	.content.mh{
+		min-height:250px;
+		height:auto;
+	}
+	/*sh will take up 1/4 of the page(In Example:25%)*/
+	.content.sh{
+		min-height:100px;
+		height:auto;
+	}
+/*END OF HEIGHTS*/
+
+/*ALIGNING*/
+/*IF YOU WANT TO ALIGN THE OBJECT, JUST PUT WHAT YOU WANT FIRST, FIRST*/
+/*END OF ALIGNING*/
+
+
+/*HEADERS*/
+/*NORMAL THING FOR HEADER*/
+	.content::before{
+		width:100%;
+		height:48px;
+		line-height:32px;
+		text-align:left;
+		content:'Title goes here';
+		line-height:48px;
+		text-indent:32px;
+		font-size:24px;
+		display:absolute;
+		font-family: 'Avant Garde', Avantgarde, 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+		color:white;
+		display:block;
+		top:0;
+	}
+/*RED HEADER COLOR*/
+	.content.r::before{
+		background-color:#F25C5C;
+		border-bottom:4px solid #B24444;
+	}
+	/*BLUE HEADER COLOR*/
+	.content.b::before{
+		background-color:#61D6C1;
+		border-bottom:4px solid #4BA695;
+	}
+	.content.y::before{
+		background-color:#F2D649;
+		border-bottom:4px solid #D1B93F;
+	}
+	.content.o::before{
+		background-color:#FF973F;
+		border-bottom:4px solid #C47431;
+	}
+
+/*END OF HEADERS*/
+
+
+/*BACKGROUNDS*/
+	.content.backR{
+		background-color:rgba(178,68,68,.7);
+	}
+	.content.backB{
+		background-color:rgba(75,166,149,.7);
+	}
+	.content.backY{
+		background-color:rgba(209,185,63,.7);
+	}
+	.content.backO{
+		background-color:rgba(255,151,63,.7);
+	}
+/*END OF BACKGROUNDS*/
+
+
+
+.t1:before{
+	content:"Commitment" !important;
+}
+.t2:before{
+	content:"What?" !important;
+}
+.t3:before{
+	content:"Why?" !important;
+}
+.t4:before{
+	content:"How are we achieving this?" !important;
+}
+.t5:before{
+	content:"Contact Jordan High School Makers Collective" !important;
+}
+.t6:before{
+	content:"Coming soon..." !important;
+}
+.t7:before{
+	content:"'Why?' explained" !important;
+}
+.t8:before{
+	content:"'What?' explained" !important;
+}
+.t9:before{
+	content:"Recent posts";
+}
+.t10:before{
+	content:"Blog";
+}
+.t11:before{
+	content:"Events";
+}
+.t12:before{
+	content:"List of Current Events";
+}
+.t13:before{
+	content:"Login to Administrator Account";
+}
+.t14:before{
+	content:"Members";
+}
+.t15:before{
+	content:"Fundraising";
+}
+a{
+	list-style:none;
+	text-decoration:none;
+}
+
+.link{
+	color:#61D6C1;
+	font-size:20px;
+	text-align:center;
+}
+
+.button{
+	cursor:pointer;
+	width:100%;
+	height:32px;
+	font-size:24px;
+	font-family: 'Avant Garde', Avantgarde, 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+	color:white;
+	display:block;
+	line-height:32px;
+	text-align:center;
+	background-size:100%;
+	border-radius:5px;
+	transition:.5s;
+	-o-transition:.5s;
+	-moz-transition:.5s;
+	-webkit-transition:.5s;
+}
+/*BUTTON COLORS*/
+	.button.r{
+		background-color:#FF6B61;
+	}
+	/*BLUE HEADER COLOR*/
+	.button.b{
+		background-color:#61DFC8;
+		
+	}
+	.button.y{
+		background-color:#F2E349;
+	}
+	.button.o{
+		background-color:#FFA73F;
+	}
+	.button.n{
+		background-color:#B8B8B8;
+	}	
+	
+	.button:hover{
+		border-radius:0px;
+		color:#EEEEEE;
+	}
+/*END OF BUTTON COLORS*/
+
+.header{
+	cursor:pointer;
+	width:100%;
+	height:48px;
+	font-size:24px;
+	font-family: 'Avant Garde', Avantgarde, 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+	color:white;
+	display:block;
+	line-height:32px;
+	text-align:left;
+	background-size:100%;
+	text-indent:32px;
+	line-height:48px;
+	transition:.5s;
+	-o-transition:.5s;
+	-moz-transition:.5s;
+	-webkit-transition:.5s;
+}
+/*BUTTON COLORS*/
+	.header.r{
+		background-color:#FF6B61;
+		border-bottom:4px solid #B24444;
+	}
+	/*BLUE HEADER COLOR*/
+	.header.b{
+		background-color:#61DFC8;
+		border-bottom:4px solid #4BA695;
+		
+	}
+	.header.y{
+		background-color:#F2E349;
+		border-bottom:4px solid #D1B93F;
+	}
+	.header.o{
+		background-color:#FFA73F;
+		border-bottom:4px solid #C47431;
+	}
+	.header.n{
+		background-color:#B8B8B8;
+	}
+	
+	.header:hover{
+		border-radius:0px;
+		color:#EEEEEE;
+	}
+/*END OF BUTTON COLORS*/

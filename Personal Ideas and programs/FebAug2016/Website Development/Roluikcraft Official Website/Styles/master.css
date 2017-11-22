@@ -1,0 +1,156 @@
+*{
+	margin:0 auto;
+	padding:0;
+}
+
+h1,h2,h3,h4,h5,h6,p,a{
+	font-family:"Courier New", Courier, monospace;
+}
+
+body{
+	
+	min-width:1100px;
+	background-color:#eee;
+}
+#container{
+	display:inline-block;
+}
+#container.big{
+	width:93.9%;
+	height:89.8%;
+	margin:10px;
+	background-color:gray;
+	border-radius:5px;
+	
+}
+#container.medium{
+	width:93.9%;
+	height:44.9%;
+	margin:10px;
+	background-color:gray;
+	border-radius:5px;
+}
+#container.small{
+	width:93.9%;
+	height:24.9%;
+	margin:10px;
+	background-color:gray;
+	border-radius:5px;
+}
+
+
+#header{
+	width:100%;
+	height:220px;
+	background-color:black;
+}
+#header .top{
+	height:120px;
+	width:100%;
+	color:white;
+	
+}
+#header .bottom{
+	height:100px;
+	width:100%;
+	background-color:rgba(255,255,255,.2);
+}
+
+#header ul{
+	list-style:none;
+}
+
+#header li{
+	list-style:none;
+	display:inline-block;
+	text-align:center;
+}
+
+#header li a{
+	color:white;
+	height:100px;
+	width:200px;
+	font-size:32px;
+	text-decoration:none;
+	font-family:"Courier New", Courier, monospace;
+	text-align:center;
+	line-height:100px;
+	display:block;
+	transition:.5s;
+	-o-transition:.5s;
+	-moz-transition:.5s;
+	-webkit-transition:.5s;
+}
+#header li a:hover{
+	background-color:#E89D05;
+
+}
+#header li a.active{
+	background-color:#E87B39;
+	margin:0;
+}
+#header li a.inactive{
+
+}
+
+p.logo{
+	font-family:"Courier New", Courier, monospace;
+	line-height:120px;
+	font-size:48px;
+	color:white;
+	margin-left:32px;
+	display:inline-block;
+}
+
+
+#main{
+	width:100%;
+	background-color:#eee;
+	clear: both;
+}
+
+#main .left{
+	width:74.9999%;
+	height:100%;
+	display:inline-block;
+}
+
+#main .right{
+	width:24.99999%;
+	height:100%;
+	display:inline-block;
+	float:right;
+}
+#main .right p{
+	font-size:24px;
+
+}
+
+#sign{
+	display:block;
+	float:right;
+	margin-right:32px;
+}
+#sign a{
+	line-height:48px;
+	font-size:16px;
+	text-decoration:none;
+	color:white;
+}
+
+#sign a:hover{
+	text-decoration:underline;
+}
+
+#sign p{
+	
+	display:inline;
+
+}
+
+
+#wrapper{
+	min-width:900px;
+	width:100%;
+	margin: 0 auto;
+}

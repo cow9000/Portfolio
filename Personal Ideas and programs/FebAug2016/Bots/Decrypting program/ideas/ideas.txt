@@ -1,0 +1,13 @@
+e7 50 ad a8 a7 57 2b e2 ad d3 5d 73 ec 67 a1 df 39 04 33 5a 91 85 28 5d b7 c5 5f c7 42 8c e5 ca 83 48 ca 74 53 84 7b bb b5 5c 68 05 aa cf 83 b6 40955b496c345dc3b7634652731a392049f5958cf67d4861a55c0feaf156d354eeb3159a51862715a50503e531b536d8129fbf9158c126d58b3f2417bf2d395d3fab91e0f1e58dd182f69928a959f5cb2d3cc3b4c6637199bd1b4f482071982074ad2d26fe6b4b8eaa05c02a48778373b4e3aefa992a2bbfa46d6b03018faa4a8f99c4d52aaa0ed681597e04721585378138029b156602998ef6e8d489cbcdd5715bfc5bf7536a83bacaec690328d79b775cdb588f745817ac31157c8f954e9369efd90ace497bf5adf6f7d96c45631dbd544f594cc30ccf944743d2d3e399446bb7ec4772671a7ea5436fc89e40bcd731168998fcac3cb18e4664a124a3be4a1886a17466352792ace49171ca3960b9
+d6 04 ca 7a 6a 74 a1 1d ca 2c c4 26 bd 65 0a
+╓╩zjtí
+╩,─&╜e
+
+Rule - Minus 1 on each (if c, then b), and then switch (However, if a or 0 don't minus)
+
+
+IDEAS - 
+	Change letters to numbers then convert from HEX to ASCII
+	Change numbers to letters then convert from HEX to ASCII
+	A goes to Z, Numbers don't change. (Possible? Might have to change numbers)
+	Possibly reverse the numbers and letters?

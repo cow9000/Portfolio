@@ -1,0 +1,15 @@
+buildmeblocks.com
+
+TIME SPENT - 100+ Hours
+
+CONTACT - Melissa Purcell melissa@buildmeblocks.com
+
+DESCRIPTION - 
+
+I created a website with a Content Management System so that the client could edit the website without knowing how to code
+I also created a system that hooked into paypal and read the IPN. This system allowed the user to purchase online files,
+and then a request would be sent to paypal and then that request back to the website. The website would then read 
+who purchased the files, and then would give the user access to the files.
+
+The design was made from a template purchased online but I had to do major work to make the template work for the client.
+

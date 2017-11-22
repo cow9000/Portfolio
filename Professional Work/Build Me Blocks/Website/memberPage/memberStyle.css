@@ -1,0 +1,199 @@
+*{
+	margin:0 auto;
+	padding:0;
+}
+body{
+	background:url("images/school.png");
+	min-width:1000px;
+}
+#wrapper{
+min-width:1000px;
+	position:absolute;
+	width:100%;
+	height:100%;
+	background:url("images/school.png");
+}
+#comments{
+	border:none !important;
+}
+#selectPrograms textarea{
+	margin:15px;
+	font-size:13px;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	border:none;
+	padding:11px 9px 11px 14px;
+	width:550px;
+	height:350px;
+	position:relative;
+	color:white;
+	box-shadow:none !important;
+	outline:none;
+}
+ #selectPrograms select, #selectPrograms input{
+	margin:15px;
+	font-size:13px;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	border:none;
+	padding:5px 4px 5px 10px;
+	width:550px;
+	height:48px;
+	position:relative;
+	color:white;
+	box-shadow:none !important;
+	outline:none;
+}
+
+#selectPrograms{
+	min-width:800px;
+	position:relative;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+#selectPrograms p.special{
+	cursor:pointer;
+	background-color:rgba(255,255,255,.2);
+	text-align:center;
+	line-height:48px;
+	color:white;
+	font-size:18px;
+}
+#selectPrograms .create, #selectPrograms .edit{
+	margin:32px;
+}
+
+#createProgram, #editProgram{
+	position:relative;
+	margin-left: auto;
+	margin-right: auto;
+	background:gray;
+}
+
+#paymentMain, #memberMain, #commentsMain, #newsletterMain, #settingsMain,#programsMain, #couponsMain{
+	opacity:1;
+	transition:1s opacity, top 1.5s;
+	position:relative;
+	display:none;
+	margin-left: auto;
+	margin-right: auto;
+}
+textarea{
+	margin:15px;
+	font-size:13px;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	border:none;
+	padding:11px 9px 11px 14px;
+	background:rgba(0,0,0,.5);
+	width:550px;
+	height:350px;
+	position:relative;
+	color:white;
+	box-shadow:none !important;
+	outline:none;
+}
+ select, input{
+	margin:15px;
+	font-size:13px;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	border:none;
+	padding:11px 9px 11px 14px;
+	background:rgba(0,0,0,.5);
+	width:550px;
+	height:48px;
+	position:relative;
+	color:white;
+	box-shadow:none !important;
+	outline:none;
+}
+select,input,textarea{
+	margin-left:auto;
+	margin-right:auto;
+	  align-items: center;
+}
+#memberMain{
+	opacity:1;
+	z-index:1;
+	left:32px;
+	display:block;
+}
+#commentsMain{
+
+left:35px;
+position:relative;
+
+}
+
+td a{
+	padding:5px 5px;
+	color:black; 
+	text-decoration:none;
+	transition:.5s;
+	-o-transition:.5s;
+	-moz-transition:.5s;
+	-webkit-transition:.5s;
+}
+td a:hover{
+	text-decoration:underline;
+}
+
+table{
+	margin-top:32px;
+}
+
+
+table, th, td {
+    border: 1px solid #294159;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 6px;
+    text-align: left;    
+}
+
+th{
+	width:132px;
+	height:48px;
+	color:white;
+	background:#162942;
+}
+td{
+	background:#89BBFF;
+}
+
+
+#lowerNav{
+	width:100%;
+	height:48px;
+	display:block;
+	position:relative;
+	background-color:gray;
+	margin:0 auto;
+	padding:0;
+}
+#top{
+	height:64px;
+	width:100%;
+	position:relative;
+	top:0;
+
+}
+#main{
+	width:80%;
+	height:100%;
+	z-index:5;
+	position:relative;
+	margin-left:164px;
+	background:url("images/school.png");
+}
+li{
+	list-style:none;
+}
+#lowerNav li a{
+	width:150px;
+	height:48px;
+	line-height:48px;
+	display:inline-block;
+	float:left;
+	padding-left:10px;
+	
+}

@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+    <html>
+        <head>
+            <title>Coded Companion</title>
+            <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+            <script>
+                //Binary Translator\
+				$(document).ready(function(){
+                window.i = 0
+                window.i2 = 0
+
+                $letterArray = []
+                $binaryArray = []
+                
+                $letterArray[0] = " "
+                $binaryArray[0] = "00100000"
+                
+                $letterArray[1] = "a"
+                $binaryArray[1] = "01100001"
+
+                $letterArray[2] = "b"
+                $binaryArray[2] = "01100010"  
+				
+				$letterArray[3] = "c"
+				$binaryArray[3] = "01100011"
+                function Translate(){
+                    array = $("#input").val()
+                    array = array.split("")
+                if (array[window.i2] != null){
+					if(array[window.i2] == $letterArray[window.i]){
+						array[window.i2] = $binaryArray[window.i]
+						$("#output").append(array[window.i2])
+						i = 0
+						i2 += 1
+						Translate()
+					}
+					else if(window.array[window.i2] != $letterArray[window.i]){
+						i += 1
+						Translate()
+					};
+                };   
+                    
+            };
+                
+		$("#button").click(function(){
+			i2 = 0
+			i = 0
+			$("#output").html("Binary: ")
+			Translate();
+		});
+				});
+                           
+                    
+                
+        
+            </script>
+            <style>
+                #navBar{margin:0; padding:0;  height:100%; width:174px; background-color:rgba(0,0,0,.5); position:absolute;  top:0; bottom:0; left:0;}
+                
+                
+                <!--hi-->
+                
+                
+                
+            </style>
+            
+        </head>
+            <body>
+                <textarea id="input" style="width:350px; height:350px;"></textarea>
+                <div id="output">Binary:</div>
+                <a id="button" href="#">Click here to output to binary!</a>
+                
+                
+               
+            </body>
+    </html>

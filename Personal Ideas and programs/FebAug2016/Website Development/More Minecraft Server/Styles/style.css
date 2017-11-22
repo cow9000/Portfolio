@@ -1,0 +1,294 @@
+*{
+margin:0 auto;
+padding:0;
+}
+
+body{
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+	background-image:url(../images/background/main.jpg);
+}
+
+#wrapper{
+	width: 100%;
+	height:100%;
+	min-width:960px;
+	position: absolute;
+}
+
+#nav{
+	margin-right: auto;
+	margin-left: auto;
+	width:100%;
+	height:50px;
+	background-color:#594940;
+	border-bottom:2px solid #59B949;
+	z-index:25;
+	position: relative;
+	
+}
+
+#nav .links{
+
+	width:100%;
+	height:48px;
+	background-color:#594940;
+
+}
+#main{
+	margin-right: auto;
+	margin-left: auto;
+	width:100%;
+}
+
+
+
+
+#content{
+	margin:64px 64px;
+	width:350px;
+	background-color:#F8F8FF;
+}
+
+#wrap{
+display:inline;
+}
+
+
+#right{
+	text-decoration:none;
+	color:white;
+	float:right;
+	display:inline;
+}
+#login, #register{
+	color:#EEE;
+	text-decoration:none;
+	transition:.5s;
+}
+#login:hover, #register:hover{
+	color:gray;
+}
+
+#footer{
+	position:relative;
+	bottom:0pxn webkit-transition;
+	background-color:black;
+	height:64px;
+	width:100%;
+}
+
+
+
+.bigText{
+	font-size:24px;
+}
+
+
+.stat{
+
+background-color:#F8F8FF;
+border:2px solid #59B949;
+position:absolute;
+left:290px;
+top:80px;
+width:65%;
+min-width:550px;
+height:450px;
+padding:15px 15px;
+border-radius:5px;
+
+}
+
+
+.profile{
+	position:relative;
+	float:left;
+	height:750px;
+	padding:15px 15px;
+	width:224px;
+	border:2px solid #F5F5F5;
+	background-color:#F8F8FF;
+}
+
+.profile img{
+	width:128px;
+	height:128px;
+	border:2px solid #D68580;
+	display:inline-block;
+	border-radius:5px;
+}
+.profile .username{
+	font-size:18px;
+	color:black;
+	display:inline-block;
+	
+}
+.profile .username:before{
+	content:"Username: ";
+}
+
+#content{
+	z-index:10;
+	position:relative;
+	width:80%;
+	min-width:840px;
+	top:32px;
+	display:block;
+	border:2px solid #F5F5F5;
+	margin-left:auto;
+	margin-right:auto;
+	box-shadow:3px 3px 2px white;
+}
+
+#content .title{
+	background-color:#59B949;
+	width:100%;
+	height:32px;
+	padding-right:50px;
+	position:relative;
+	left:-25px;
+	top:-10px;
+	box-shadow:3px 3px 2px #ABABAB;
+	border-radius:3px;
+	line-height:32px;
+	color:black;
+	font-size:24px;
+	text-indent:15px;
+}
+
+#options{
+
+	width:100px;
+	height:38px;
+	font-size:18px;
+	overflow:hidden;
+	position:absolute;
+	
+	right:0;
+	cursor:pointer;
+	
+	
+	transition:.5s;
+	-o-transition:.5s;
+	-moz-transition:.5s;
+	-webkit-transition:.5s;
+}
+
+#options:hover{
+	height:206px;
+	border-bottom:1px solid gray;
+}
+
+
+
+
+#options .inside{
+	height:168px;
+	width:100%;
+	background-color:#ABABAB;
+	border-left:1px solid gray;
+
+}
+
+#options .inside li, #options .inside ul{
+
+	list-style:none;
+
+}
+
+#topTitle{
+	line-height:48px;
+	text-indent:8px;
+	width:100%;
+	height:64px;
+	background-color:#ABABAB;
+}
+#topTitle .bottom{
+	border-bottom:1px solid gray;
+	height:32px;
+	width:100%;
+	background-color:#dbe7f1;
+	line-height:32px;
+	text-indent:8px;
+}
+#bottomTitle{
+
+	height:32px;
+	width:100%;
+	background-color:#dbe7f1;
+	position:absolute;
+	bottom:0;
+	line-height:32px;
+	text-indent:8px;
+	
+	
+}
+
+
+
+
+
+#news{
+	border:1px solid gray;
+	position:relative;
+	width:100%;
+	min-height:264px;
+	word-wrap: break-word;
+	border-radius:5px;
+	margin-bottom:25px;
+}
+#news #title{
+	width:100%;
+	height:48px;
+	display:inline-block;
+	background-color:#ABABAB;
+	text-align:center;
+	border-bottom:3px solid #156465;
+}
+#news #text{
+	margin-top:16px;
+	text-indent:16px;
+
+}
+
+#post{
+	width:100%;
+	height:100%;
+	position:fixed;
+	background-color:#eee;
+	z-index:15;
+	top:0;
+	overflow:hidden;
+}
+
+#news img{
+	display:inline-block;
+	float:left;
+}
+
+
+#nav ul{
+	text-decoration:none;
+	display:inline-block;
+}
+#nav ul li{
+
+	text-decoration:none;
+	display:inline-block;
+	
+}
+#nav ul li a{
+	width:128px;
+	height:50px;
+	color:white;
+	transition:.5s background-color;
+	text-decoration:none;
+	display:inline-block;
+	text-align:center;
+	line-height:50px;
+}
+#nav ul li a:hover{
+	background-color:rgba(89,185,73,1);
+}
